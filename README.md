@@ -16,4 +16,8 @@ I started off with the edge cut for the board outline, and then setting the grid
 
 **Routing**
 
+I spent around 2 hours routing my keyboard until I realized that I had the diodes connected to each other in a random order, and had to redo their nets in the schematic editor, and then delete all the routed wires. On my second try my routing vastly improved and it took me maybe an hour and thirty minutes to do everything. I started with 5V to the leds and some of the special electronics, and then 3V3 and SDA and SCK. After that I redid the keyboard matrix with my newly organized diodes and connected the other component's data paths like the toggle switches, rotary encoders, and OLED. I spent maybe 30 minutes playing with the ground fill and another hour making DRC stop having a panic attack, and finally was done routing.
 
+**Finishing touches**
+
+I added an explosion svg because I'm just that cool.
