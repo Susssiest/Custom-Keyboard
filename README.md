@@ -22,7 +22,7 @@ I spent around 2 hours routing my keyboard until I realized that I had the diode
 
 **Finishing touches**
 
-I added an explosion svg because I'm just that cool.
+I added an explosion svg lol.
 
 <img width="896" height="455" alt="Screenshot 2026-08-09 at 4 57 58 PM" src="https://github.com/user-attachments/assets/fd9c340d-e958-4f96-ae82-24cc13d89c62" />
 
