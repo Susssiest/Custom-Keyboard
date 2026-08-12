@@ -20,6 +20,12 @@ I spent around 2 hours routing my keyboard until I realized that I had the diode
 
 <img width="1126" height="758" alt="Screenshot 2026-08-09 at 4 27 30 PM" src="https://github.com/user-attachments/assets/2b2a7ea1-8b23-4e64-9884-85ce934b52b7" />
 
+**Cadding Case**
+
+I made my case around the imported 3D model of the pcb. I made the plate and top part split into three pieces to fit on the printer bed, and have a interlocking zigzag connection that will be secured with glue after printing. 
+
+<img width="1470" height="923" alt="Screenshot 2026-08-11 at 8 10 50 PM" src="https://github.com/user-attachments/assets/2c2dae7a-f4d5-4aa7-9a5f-b16b3417e933" />
+
 **Finishing touches**
 
 I added an explosion svg lol.
