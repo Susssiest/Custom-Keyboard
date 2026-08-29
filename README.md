@@ -41,7 +41,7 @@ I added an explosion svg lol. This whole process took 10 minutes.
 
 
 
-BOM
+# BOM
 
 <img width="1352" height="561" alt="Screenshot 2026-08-28 at 7 07 21 PM" src="https://github.com/user-attachments/assets/dddf9bf2-7438-4139-a0b5-475edb363149" />
 
