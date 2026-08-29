@@ -33,6 +33,10 @@ I made my case around the imported 3D model of the pcb. I made the plate and top
 
 <img width="1470" height="923" alt="Screenshot 2026-08-11 at 8 10 50 PM" src="https://github.com/user-attachments/assets/2c2dae7a-f4d5-4aa7-9a5f-b16b3417e933" />
 
+**Realized that 8U isn't normal, completely changed spacebar, and routing arround it.This whole process took 30 Minutes.
+
+<img width="1005" height="387" alt="Screenshot 2026-08-28 at 7 09 36 PM" src="https://github.com/user-attachments/assets/045ba682-aea2-4bd7-be93-0c76c0cd0fb5" />
+
 **Finishing touches**
 
 I added an explosion svg lol. This whole process took 10 minutes.
