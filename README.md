@@ -39,13 +39,15 @@ Realized that 8U isn't normal, completely changed spacebar, and routing arround 
 
 <img width="1005" height="387" alt="Screenshot 2026-08-28 at 7 09 36 PM" src="https://github.com/user-attachments/assets/045ba682-aea2-4bd7-be93-0c76c0cd0fb5" />
 
-**Finishing touches**
+**Finishing touches ON PCB**
 
 I added an explosion svg lol. This whole process took 10 minutes.
 
 <img width="896" height="455" alt="Screenshot 2026-08-09 at 4 57 58 PM" src="https://github.com/user-attachments/assets/fd9c340d-e958-4f96-ae82-24cc13d89c62" />
 
+**Worked on BOM**
 
+Multiple edits, This whole process took 40 minutes.
 
 # BOM
 
