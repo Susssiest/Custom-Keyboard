@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,10.0.5*%
-%TF.CreationDate,2026-09-16T17:58:02-07:00*%
+%TF.CreationDate,2026-09-16T18:58:17-07:00*%
 %TF.ProjectId,Custom Keyboard,43757374-6f6d-4204-9b65-79626f617264,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.5) date 2026-09-16 17:58:02*
+G04 Created by KiCad (PCBNEW 10.0.5) date 2026-09-16 18:58:17*
 %MOMM*%
 %LPD*%
 G01*
@@ -1764,9 +1764,9 @@ X268762500Y-243450000D03*
 %TD*%
 D31*
 %TO.C,C1*%
-X171450000Y-152400000D03*
+X139750000Y-168500000D03*
 D10*
-X167950000Y-152400000D03*
+X136250000Y-168500000D03*
 %TD*%
 D30*
 %TO.C,RGB_LED44*%
