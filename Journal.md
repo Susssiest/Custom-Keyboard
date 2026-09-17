@@ -27,9 +27,15 @@ I made my case around the imported 3D model of the pcb. I made the plate and top
 
 <img width="1470" height="923" alt="Screenshot 2026-08-11 at 8 10 50 PM" src="https://github.com/user-attachments/assets/2c2dae7a-f4d5-4aa7-9a5f-b16b3417e933" />
 
-**Finishing touches**
+**Adding silkscreen**
 
 I added an explosion svg lol. This whole process took 10 minutes.
 
 <img width="896" height="455" alt="Screenshot 2026-08-09 at 4 57 58 PM" src="https://github.com/user-attachments/assets/fd9c340d-e958-4f96-ae82-24cc13d89c62" />
+
+**Added data shifter**
+
+I spent around 2 hours adding a data shifter for the LEDs, realized I needed one, luckily I ordered one already for another project, and don't have to add to BOM. Had to rearrange some routing, and also realized that resistor had wrong footprint and fixed that. This whole process took 2 hours.
+
+<img width="852" height="529" alt="Screenshot 2026-09-16 at 5 57 27 PM" src="https://github.com/user-attachments/assets/4a6d4885-ee8b-4a4e-be62-8de87d9c6b31" />
 
