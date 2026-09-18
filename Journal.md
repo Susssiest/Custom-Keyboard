@@ -1,4 +1,3 @@
-
 # Custom-Keyboard Project
 
 
@@ -38,4 +37,11 @@ I added an explosion svg lol. This whole process took 10 minutes.
 I spent around 2 hours adding a data shifter for the LEDs, realized I needed one, luckily I ordered one already for another project, and don't have to add to BOM. Had to rearrange some routing, and also realized that resistor had wrong footprint and fixed that. This whole process took 2 hours.
 
 <img width="852" height="529" alt="Screenshot 2026-09-16 at 5 57 27 PM" src="https://github.com/user-attachments/assets/4a6d4885-ee8b-4a4e-be62-8de87d9c6b31" />
+
+**Replaced GPIO extender**
+
+Replaced the MCP23017 with smaller one that uses scl instead of sck (PCF8574AP) and added HC logo silkscreen. Also added resistors and swapped C11 with C13 on pico to PCF8574AP. Took forever rerouting stuff. This whole process took 2 hours.
+
+<img width="856" height="387" alt="PCB" src="https://github.com/user-attachments/assets/f6fa596e-02b1-4d0b-ae9a-0537ac25ce44" />
+
 
