@@ -1,4 +1,3 @@
-<img width="856" height="387" alt="PCB" src="https://github.com/user-attachments/assets/f6fa596e-02b1-4d0b-ae9a-0537ac25ce44" />
 # Custom-Keyboard Project
 
 
@@ -43,6 +42,6 @@ I spent around 2 hours adding a data shifter for the LEDs, realized I needed one
 
 Replaced the MCP23017 with smaller one that uses scl instead of sck (PCF8574AP) and added HC logo silkscreen. Also added resistors and swapped C11 with C13 on pico to PCF8574AP. Took forever rerouting stuff. This whole process took 2 hours.
 
-<img width="1166" height="493" alt="Screenshot 2026-09-17 at 7 55 49 PM" src="https://github.com/user-attachments/assets/a71c90e9-5200-45d1-af19-2d663b07817a" />
+<img width="856" height="387" alt="PCB" src="https://github.com/user-attachments/assets/f6fa596e-02b1-4d0b-ae9a-0537ac25ce44" />
 
 
