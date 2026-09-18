@@ -5,6 +5,335 @@
 	(uuid "0112a49c-87b1-4505-bf98-43d79642e5f4")
 	(paper "A2")
 	(lib_symbols
+		(symbol "74xGxx:74AHCT14"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "74AHCT14_0_1"
+				(rectangle
+					(start -6.35 7.62)
+					(end 6.35 -10.16)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "74AHCT14_1_1"
+				(pin input line
+					(at -6.35 6.35 0)
+					(length 2.54)
+					(name "1A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -6.35 3.81 0)
+					(length 2.54)
+					(name "1Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 1.27 0)
+					(length 2.54)
+					(name "2A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -6.35 -1.27 0)
+					(length 2.54)
+					(name "2Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 -3.81 0)
+					(length 2.54)
+					(name "3A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -6.35 -6.35 0)
+					(length 2.54)
+					(name "3Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -6.35 -8.89 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 6.35 6.35 180)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 6.35 3.81 180)
+					(length 2.54)
+					(name "6A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 6.35 1.27 180)
+					(length 2.54)
+					(name "6Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 6.35 -1.27 180)
+					(length 2.54)
+					(name "5A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 6.35 -3.81 180)
+					(length 2.54)
+					(name "5Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 6.35 -6.35 180)
+					(length 2.54)
+					(name "4A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 6.35 -8.89 180)
+					(length 2.54)
+					(name "4Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Polarized"
 			(pin_numbers
 				(hide yes)
@@ -1081,37 +1410,16 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Interface_Expansion:MCP23017x-x-SO"
+		(symbol "Interface_Expansion:PCF8574AP"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "U"
-				(at -9.398 24.638 0)
+				(at -7.112 14.732 0)
 				(show_name no)
 				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MCP23017x-x-SO"
-				(at 11.176 24.638 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm"
-				(at 5.08 -25.4 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1119,11 +1427,10 @@
 					(justify left)
 				)
 			)
-			(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf"
-				(at 5.08 -27.94 0)
+			(property "Value" "PCF8574AP"
+				(at 3.302 14.732 0)
 				(show_name no)
 				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1131,7 +1438,7 @@
 					(justify left)
 				)
 			)
-			(property "Description" "16-bit I/O expander, I2C, interrupts, w pull-ups, GPA7/GPB7 output only (https://microchip.my.site.com/s/article/GPA7---GPB7-Cannot-Be-Used-as-Inputs-In-MCP23017),  SOIC-28"
+			(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1142,7 +1449,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "Microchip port-expander GPIO"
+			(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1153,7 +1460,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "SOIC*7.5x17.9mm*P1.27mm*"
+			(property "Description" "8-bit I/O Expander, I2C interface, interrupt output, fixed address bits 0b0111xxx, DIP-16"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1164,10 +1471,32 @@
 					)
 				)
 			)
-			(symbol "MCP23017x-x-SO_0_1"
+			(property "ki_keywords" "NXP Port-Expander"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "DIP*W7.62mm*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PCF8574AP_0_1"
 				(rectangle
-					(start -10.16 22.86)
-					(end 10.16 -22.86)
+					(start -7.62 12.7)
+					(end 7.62 -10.16)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1177,11 +1506,11 @@
 					)
 				)
 			)
-			(symbol "MCP23017x-x-SO_1_1"
-				(pin bidirectional line
-					(at 12.7 -2.54 180)
+			(symbol "PCF8574AP_1_1"
+				(pin input line
+					(at -10.16 -2.54 0)
 					(length 2.54)
-					(name "GPB0"
+					(name "A0"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1196,10 +1525,10 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 12.7 -5.08 180)
+				(pin input line
+					(at -10.16 -5.08 0)
 					(length 2.54)
-					(name "GPB1"
+					(name "A1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1214,10 +1543,10 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 12.7 -7.62 180)
+				(pin input line
+					(at -10.16 -7.62 0)
 					(length 2.54)
-					(name "GPB2"
+					(name "A2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1233,9 +1562,9 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 -10.16 180)
+					(at 10.16 10.16 180)
 					(length 2.54)
-					(name "GPB3"
+					(name "P0"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1251,9 +1580,9 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 -12.7 180)
+					(at 10.16 7.62 180)
 					(length 2.54)
-					(name "GPB4"
+					(name "P1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1269,9 +1598,9 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 -15.24 180)
+					(at 10.16 5.08 180)
 					(length 2.54)
-					(name "GPB5"
+					(name "P2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1287,9 +1616,9 @@
 					)
 				)
 				(pin bidirectional line
-					(at 12.7 -17.78 180)
+					(at 10.16 2.54 180)
 					(length 2.54)
-					(name "GPB6"
+					(name "P3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1304,10 +1633,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 12.7 -20.32 180)
+				(pin power_in line
+					(at 0 -12.7 90)
 					(length 2.54)
-					(name "GPB7"
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1322,10 +1651,10 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 25.4 270)
+				(pin bidirectional line
+					(at 10.16 0 180)
 					(length 2.54)
-					(name "V_{DD}"
+					(name "P4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1340,10 +1669,10 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 0 -25.4 90)
+				(pin bidirectional line
+					(at 10.16 -2.54 180)
 					(length 2.54)
-					(name "V_{SS}"
+					(name "P5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1358,11 +1687,10 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at -10.16 15.24 0)
+				(pin bidirectional line
+					(at 10.16 -5.08 180)
 					(length 2.54)
-					(hide yes)
-					(name "NC"
+					(name "P6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1377,10 +1705,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -12.7 20.32 0)
+				(pin bidirectional line
+					(at 10.16 -7.62 180)
 					(length 2.54)
-					(name "SCK"
+					(name "P7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1395,10 +1723,10 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at -12.7 17.78 0)
+				(pin open_collector line
+					(at -10.16 2.54 0)
 					(length 2.54)
-					(name "SDA"
+					(name "~{INT}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1413,11 +1741,10 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at -10.16 12.7 0)
+				(pin input line
+					(at -10.16 10.16 0)
 					(length 2.54)
-					(hide yes)
-					(name "NC"
+					(name "SCL"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1432,10 +1759,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -12.7 -15.24 0)
+				(pin bidirectional line
+					(at -10.16 7.62 0)
 					(length 2.54)
-					(name "A0"
+					(name "SDA"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1450,10 +1777,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -12.7 -17.78 0)
+				(pin power_in line
+					(at 0 15.24 270)
 					(length 2.54)
-					(name "A1"
+					(name "VDD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1461,222 +1788,6 @@
 						)
 					)
 					(number "16"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -12.7 -20.32 0)
-					(length 2.54)
-					(name "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "17"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -12.7 -2.54 0)
-					(length 2.54)
-					(name "~{RESET}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "18"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin tri_state line
-					(at -12.7 2.54 0)
-					(length 2.54)
-					(name "INTB"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "19"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin tri_state line
-					(at -12.7 5.08 0)
-					(length 2.54)
-					(name "INTA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 20.32 180)
-					(length 2.54)
-					(name "GPA0"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "21"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 17.78 180)
-					(length 2.54)
-					(name "GPA1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "22"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 15.24 180)
-					(length 2.54)
-					(name "GPA2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "23"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 12.7 180)
-					(length 2.54)
-					(name "GPA3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "24"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 10.16 180)
-					(length 2.54)
-					(name "GPA4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "25"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 7.62 180)
-					(length 2.54)
-					(name "GPA5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "26"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 12.7 5.08 180)
-					(length 2.54)
-					(name "GPA6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "27"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 12.7 2.54 180)
-					(length 2.54)
-					(name "GPA7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "28"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4688,40 +4799,20 @@
 		(uuid "ff301614-adbf-4a22-b326-03efbf0cd289")
 	)
 	(no_connect
-		(at 492.76 294.64)
-		(uuid "04c76f5e-dfcb-4474-9b7c-b1f5c8602c38")
-	)
-	(no_connect
 		(at 562.61 320.04)
 		(uuid "058c09c1-8c73-4fdc-a85b-a3b9103d8afa")
 	)
 	(no_connect
-		(at 492.76 304.8)
-		(uuid "07fae521-ebfe-4b49-9c21-f8aa4996e4a1")
+		(at 469.9 298.45)
+		(uuid "09854455-694b-4e24-aa3b-188d90269e6d")
 	)
 	(no_connect
 		(at 534.67 259.08)
 		(uuid "0f8f4c40-813b-4e10-87b1-607f11598875")
 	)
 	(no_connect
-		(at 492.76 320.04)
-		(uuid "2197da01-bc6c-4985-923b-cdebf1a722b4")
-	)
-	(no_connect
 		(at 372.11 368.3)
 		(uuid "2c9f16e7-f053-47dd-bdfb-7be5b9d44df1")
-	)
-	(no_connect
-		(at 467.36 297.18)
-		(uuid "2ce0adb7-4e59-4e98-baf2-0f1ed929165c")
-	)
-	(no_connect
-		(at 492.76 307.34)
-		(uuid "2e871aed-c54b-4af5-911d-31659c177476")
-	)
-	(no_connect
-		(at 492.76 317.5)
-		(uuid "3fba2025-ac38-42d0-8d94-ddd765d4f7b8")
 	)
 	(no_connect
 		(at 562.61 304.8)
@@ -4736,32 +4827,16 @@
 		(uuid "82e70e87-deec-4052-a895-99b3756b6779")
 	)
 	(no_connect
-		(at 492.76 314.96)
-		(uuid "a01b7215-1cad-41f1-8350-89950b5d969c")
+		(at 490.22 308.61)
+		(uuid "959f407d-52f4-4240-badf-9884aef84b16")
 	)
 	(no_connect
-		(at 492.76 322.58)
-		(uuid "a01e70a2-3a7a-4956-8d9a-3b13c5c2c499")
+		(at 490.22 306.07)
+		(uuid "a9a5801b-0a54-413a-9303-d04e2ba64bc5")
 	)
 	(no_connect
-		(at 467.36 299.72)
-		(uuid "a08fe9d9-ffdb-4337-bb80-c8812aada55e")
-	)
-	(no_connect
-		(at 492.76 312.42)
-		(uuid "ad059ab3-ce67-406e-b88c-96d0ad174267")
-	)
-	(no_connect
-		(at 492.76 299.72)
-		(uuid "c03ea11a-2641-4a8e-b635-818c773368a4")
-	)
-	(no_connect
-		(at 492.76 309.88)
-		(uuid "cdbadc7d-830c-4a3e-80dc-a14fee5681fa")
-	)
-	(no_connect
-		(at 492.76 297.18)
-		(uuid "d42a3183-209e-46f4-a87d-3533612bf265")
+		(at 490.22 303.53)
+		(uuid "f3be57b5-4998-4deb-a743-9ed744af083d")
 	)
 	(bus_entry
 		(at 481.33 218.44)
@@ -4811,16 +4886,6 @@
 			(type default)
 		)
 		(uuid "01afa86d-339b-4d87-ad1e-8c5afdfcd70d")
-	)
-	(wire
-		(pts
-			(xy 480.06 275.59) (xy 480.06 276.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0218fb2a-e0a4-444b-b315-e7bb9366a6b9")
 	)
 	(wire
 		(pts
@@ -5231,6 +5296,26 @@
 			(type default)
 		)
 		(uuid "15392f00-2e04-4ce2-8512-8b01cfa41721")
+	)
+	(wire
+		(pts
+			(xy 510.54 281.94) (xy 516.89 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "157d5a22-1980-4aeb-b33c-b62bcf1d05e7")
+	)
+	(wire
+		(pts
+			(xy 15.24 240.03) (xy 15.24 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "157feb63-74f8-42f9-b149-94a609abc616")
 	)
 	(wire
 		(pts
@@ -6114,6 +6199,16 @@
 	)
 	(wire
 		(pts
+			(xy 509.27 262.89) (xy 509.27 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42d1540e-2f4c-4333-83af-4c06f1dce806")
+	)
+	(wire
+		(pts
 			(xy 132.08 67.31) (xy 132.08 69.85)
 		)
 		(stroke
@@ -6244,6 +6339,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 248.92) (xy 13.97 248.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "457da034-c35a-4cb5-98b1-fa8e00690b40")
+	)
+	(wire
+		(pts
 			(xy 195.58 52.07) (xy 195.58 95.25)
 		)
 		(stroke
@@ -6371,6 +6476,16 @@
 			(type default)
 		)
 		(uuid "492c52a2-5416-489d-a1cd-29c84f417fb3")
+	)
+	(wire
+		(pts
+			(xy 25.4 240.03) (xy 15.24 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "496c647a-3868-4b48-841b-d90b623c1174")
 	)
 	(wire
 		(pts
@@ -7064,13 +7179,13 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 240.03) (xy 27.94 240.03)
+			(xy 510.54 284.48) (xy 516.89 284.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6b0a6b4f-674b-49ce-83f9-70a16486cd4a")
+		(uuid "6b7682fb-8f2b-45d8-81a4-00837af7506f")
 	)
 	(wire
 		(pts
@@ -7124,7 +7239,7 @@
 	)
 	(wire
 		(pts
-			(xy 492.76 281.94) (xy 495.3 281.94)
+			(xy 490.22 290.83) (xy 492.76 290.83)
 		)
 		(stroke
 			(width 0)
@@ -7164,7 +7279,7 @@
 	)
 	(wire
 		(pts
-			(xy 492.76 284.48) (xy 495.3 284.48)
+			(xy 490.22 293.37) (xy 492.76 293.37)
 		)
 		(stroke
 			(width 0)
@@ -7191,6 +7306,16 @@
 			(type default)
 		)
 		(uuid "70f4cc86-dc01-4f86-ac13-66650a6611d5")
+	)
+	(wire
+		(pts
+			(xy 15.24 246.38) (xy 21.59 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70fcb1bb-3122-40bb-b851-4a688f4f2cce")
 	)
 	(wire
 		(pts
@@ -7834,6 +7959,16 @@
 	)
 	(wire
 		(pts
+			(xy 13.97 236.22) (xy 27.94 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e11b45b-36ee-4a24-a58a-fe17308f8a56")
+	)
+	(wire
+		(pts
 			(xy 260.35 302.26) (xy 248.92 302.26)
 		)
 		(stroke
@@ -8314,7 +8449,7 @@
 	)
 	(wire
 		(pts
-			(xy 462.28 284.48) (xy 467.36 284.48)
+			(xy 464.82 293.37) (xy 469.9 293.37)
 		)
 		(stroke
 			(width 0)
@@ -8684,7 +8819,7 @@
 	)
 	(wire
 		(pts
-			(xy 492.76 289.56) (xy 495.3 289.56)
+			(xy 490.22 298.45) (xy 492.76 298.45)
 		)
 		(stroke
 			(width 0)
@@ -9204,16 +9339,6 @@
 	)
 	(wire
 		(pts
-			(xy 510.54 281.94) (xy 516.89 281.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca692845-0ec7-450f-aef8-ceca73af5dea")
-	)
-	(wire
-		(pts
 			(xy 328.93 161.29) (xy 322.58 161.29)
 		)
 		(stroke
@@ -9324,6 +9449,16 @@
 	)
 	(wire
 		(pts
+			(xy 13.97 248.92) (xy 13.97 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd39cd02-f7b5-45ad-b8c4-2529dfe4e52f")
+	)
+	(wire
+		(pts
 			(xy 284.48 105.41) (xy 309.88 105.41)
 		)
 		(stroke
@@ -9431,6 +9566,16 @@
 			(type default)
 		)
 		(uuid "d2a50b2e-4b31-4ed7-a490-7524526d42e2")
+	)
+	(wire
+		(pts
+			(xy 497.84 262.89) (xy 497.84 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d31a8a38-28dc-4217-bf6b-92ad9ec70ea0")
 	)
 	(wire
 		(pts
@@ -9624,6 +9769,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 236.22) (xy 27.94 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddcb8b4f-bba9-45d1-9094-f915abbdadad")
+	)
+	(wire
+		(pts
 			(xy 322.58 161.29) (xy 322.58 171.45)
 		)
 		(stroke
@@ -9694,7 +9849,7 @@
 	)
 	(wire
 		(pts
-			(xy 492.76 287.02) (xy 495.3 287.02)
+			(xy 490.22 295.91) (xy 492.76 295.91)
 		)
 		(stroke
 			(width 0)
@@ -9824,16 +9979,6 @@
 	)
 	(wire
 		(pts
-			(xy 510.54 284.48) (xy 516.89 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e46a9efb-e71d-4845-a1a5-33f1f10aad07")
-	)
-	(wire
-		(pts
 			(xy 209.55 290.83) (xy 209.55 303.53)
 		)
 		(stroke
@@ -9844,7 +9989,7 @@
 	)
 	(wire
 		(pts
-			(xy 492.76 292.1) (xy 495.3 292.1)
+			(xy 490.22 300.99) (xy 492.76 300.99)
 		)
 		(stroke
 			(width 0)
@@ -9984,7 +10129,7 @@
 	)
 	(wire
 		(pts
-			(xy 462.28 281.94) (xy 467.36 281.94)
+			(xy 464.82 290.83) (xy 469.9 290.83)
 		)
 		(stroke
 			(width 0)
@@ -10512,16 +10657,6 @@
 		)
 		(uuid "0033fde7-7cff-4c2c-aaac-72a3daa4f42f")
 	)
-	(label "RE1BUTTON"
-		(at 283.21 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0616abd8-12dd-4ade-a17e-decf14a9e522")
-	)
 	(label "C13"
 		(at 373.38 77.47 0)
 		(effects
@@ -10562,6 +10697,16 @@
 		)
 		(uuid "0d744ec6-3886-4225-874e-4db245804d7c")
 	)
+	(label "RE2_BUTTON"
+		(at 308.61 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0da14648-7073-4c57-827e-fffff3b07f08")
+	)
 	(label "C10"
 		(at 510.54 312.42 0)
 		(effects
@@ -10572,7 +10717,17 @@
 		)
 		(uuid "0ff5c196-7b16-4465-b6fe-2751f2ecb7bf")
 	)
-	(label "SCK"
+	(label "RE1BUTTON"
+		(at 283.21 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12092e3e-c2e6-4fab-87b5-dd0eff2797f4")
+	)
+	(label "SCL"
 		(at 237.49 68.58 0)
 		(effects
 			(font
@@ -10593,7 +10748,7 @@
 		(uuid "198a2184-86dc-40df-a60e-ddee4656e9e4")
 	)
 	(label "SPST1"
-		(at 495.3 287.02 0)
+		(at 492.76 295.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10613,7 +10768,7 @@
 		(uuid "1c2f0ce8-4ec9-4eff-80e2-04ea84018e46")
 	)
 	(label "RE2_BUTTON"
-		(at 495.3 284.48 0)
+		(at 492.76 293.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10633,7 +10788,7 @@
 		(uuid "20b5fd38-2e6a-4363-b0b7-e250151bcfdf")
 	)
 	(label "SPST2"
-		(at 495.3 289.56 0)
+		(at 492.76 298.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10653,7 +10808,7 @@
 		(uuid "2c8bc2fb-6386-4232-ac66-2b00b9c7e426")
 	)
 	(label "C11"
-		(at 495.3 292.1 0)
+		(at 492.76 300.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10711,6 +10866,16 @@
 			(justify left bottom)
 		)
 		(uuid "4f8ad1ad-4042-4da6-88e9-cd9a43b28d41")
+	)
+	(label "SDA"
+		(at 497.84 265.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "507b4363-5eaa-4d33-a942-26a4250059ec")
 	)
 	(label "C3"
 		(at 510.54 294.64 0)
@@ -10883,7 +11048,7 @@
 		(uuid "8af5321e-d233-459f-be4d-aa6d712b6577")
 	)
 	(label "SDA"
-		(at 462.28 284.48 0)
+		(at 464.82 293.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10902,15 +11067,15 @@
 		)
 		(uuid "94e7a9cc-63e4-4e58-a53d-4114daeca080")
 	)
-	(label "RE2_BUTTON"
-		(at 308.61 55.88 0)
+	(label "SCL"
+		(at 509.27 265.43 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "96f6771c-8b7c-4bc8-b213-c88f21054446")
+		(uuid "96b348f1-5156-4bfe-a955-f693ad3482e3")
 	)
 	(label "C12"
 		(at 347.98 77.47 0)
@@ -10982,8 +11147,8 @@
 		)
 		(uuid "a39f02ae-3e86-4c45-8708-eb09510e80d0")
 	)
-	(label "SCK"
-		(at 510.54 281.94 0)
+	(label "SCL"
+		(at 510.54 284.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11063,7 +11228,7 @@
 		(uuid "cdbc5016-791b-4e4b-a2f6-f1e9ded0a272")
 	)
 	(label "RE1BUTTON"
-		(at 495.3 281.94 0)
+		(at 492.76 290.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11123,7 +11288,7 @@
 		(uuid "d9b3dc9d-c9e6-4d12-a37a-2229f50dcab0")
 	)
 	(label "SDA"
-		(at 510.54 284.48 0)
+		(at 510.54 281.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11142,8 +11307,8 @@
 		)
 		(uuid "f226dbe1-523d-48aa-91ed-80bbad007cc5")
 	)
-	(label "SCK"
-		(at 462.28 281.94 0)
+	(label "SCL"
+		(at 464.82 290.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11264,7 +11429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0160b11f-fed5-4088-88ea-cdded39f516d")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR066"
 			(at 328.93 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -11324,7 +11489,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0117")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -11422,7 +11587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "020263de-91c6-432a-8146-9e1c77e5b53a")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR0120"
 			(at 201.93 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -11482,7 +11647,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR069")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -11579,7 +11744,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 29.21 247.65 0)
+		(at 21.59 269.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11588,8 +11753,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "032df011-a8c7-47f6-80c1-b48fdb8d1404")
-		(property "Reference" "#PWR01"
-			(at 29.21 251.46 0)
+		(property "Reference" "#PWR038"
+			(at 21.59 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11600,7 +11765,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 25.4 246.888 0)
+			(at 21.336 265.684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11610,7 +11775,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 247.65 0)
+			(at 21.59 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11621,7 +11786,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 247.65 0)
+			(at 21.59 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11632,7 +11797,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 29.21 247.65 0)
+			(at 21.59 269.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11648,7 +11813,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR01")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -11666,7 +11831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03dd6f8f-4b01-4282-b0f5-92d64c0ca3bf")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0110"
 			(at 316.23 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -11726,7 +11891,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0114")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -11859,7 +12024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "046cd60f-ce4d-472b-b1df-a4b00e9650d9")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR043"
 			(at 151.13 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -11919,7 +12084,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR048")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -11937,7 +12102,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04cb983a-e709-4e01-93a3-1a94e68f4bd5")
-		(property "Reference" "RGB_LED10"
+		(property "Reference" "RGB_LED35"
 			(at 99.06 309.8098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12007,7 +12172,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED10")
+					(reference "RGB_LED35")
 					(unit 1)
 				)
 			)
@@ -12025,7 +12190,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0542417a-cf54-48f8-a1ae-01a321b0e9d7")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR0134"
 			(at 252.73 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -12085,7 +12250,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR090")
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -12179,7 +12344,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0614b107-af05-4fee-9464-a0679ed5da31")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0123"
 			(at 278.13 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -12239,7 +12404,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR098")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -12372,7 +12537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08bbb5ff-0f15-4dc3-88bc-f3a1cd4b9adc")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR0143"
 			(at 303.53 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -12432,7 +12597,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0110")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -12450,7 +12615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "099dc02c-8414-4dff-86f4-35312f1b9d3e")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR046"
 			(at 227.33 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -12510,7 +12675,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR078")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -12528,7 +12693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a92aec3-015e-42c5-8a62-52694f1be5b3")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR0104"
 			(at 163.83 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -12588,7 +12753,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR054")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -12606,7 +12771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b88f97a-f3a7-4271-8f52-2497561196f3")
-		(property "Reference" "RGB_LED23"
+		(property "Reference" "RGB_LED10"
 			(at 162.56 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12676,7 +12841,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED23")
+					(reference "RGB_LED10")
 					(unit 1)
 				)
 			)
@@ -12809,7 +12974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bdc567b-ac8d-499b-ace9-fca11c8bdb7b")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR030"
 			(at 278.13 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -12869,7 +13034,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR094")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -12967,7 +13132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ca23e75-7688-49ad-b20c-d572815ca802")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR088"
 			(at 163.83 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -13027,7 +13192,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR053")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -13045,7 +13210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e6c01b3-e8b1-48c3-8285-cce1f58decfd")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR02"
 			(at 261.62 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -13106,7 +13271,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR093")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -13204,7 +13369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f76721c-1a30-4f9f-aaef-3f2970a6479f")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR09"
 			(at 46.99 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -13264,7 +13429,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR03")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -13878,7 +14043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15a0b86b-51b1-407e-b43c-2b30a9264b6f")
-		(property "Reference" "RGB_LED35"
+		(property "Reference" "RGB_LED62"
 			(at 213.36 361.8798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13948,7 +14113,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED35")
+					(reference "RGB_LED62")
 					(unit 1)
 				)
 			)
@@ -13966,7 +14131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16488127-b135-4345-bb5e-2b7e69d43603")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR011"
 			(at 125.73 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -14026,7 +14191,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR035")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14239,7 +14404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "195efe3e-85b7-4bad-98c4-aa62a38720f3")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR0121"
 			(at 227.33 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -14299,7 +14464,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR081")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -14317,7 +14482,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b954045-e887-4eea-917d-25dee9055e1b")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR085"
 			(at 87.63 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -14377,7 +14542,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR021")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -14785,7 +14950,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e55bf36-d03d-4cd3-8443-85a8da6fedfd")
-		(property "Reference" "#PWR0134"
+		(property "Reference" "#PWR052"
 			(at 379.73 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -14845,7 +15010,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0134")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -15139,7 +15304,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20e5696b-ea85-4c80-aab2-d36926a1eb9a")
-		(property "Reference" "RGB_LED26"
+		(property "Reference" "RGB_LED38"
 			(at 175.26 309.8098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15209,7 +15374,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED26")
+					(reference "RGB_LED38")
 					(unit 1)
 				)
 			)
@@ -15227,7 +15392,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20e82ae5-9584-4c03-9810-ccd8188af8fa")
-		(property "Reference" "RGB_LED25"
+		(property "Reference" "RGB_LED50"
 			(at 162.56 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15297,7 +15462,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED25")
+					(reference "RGB_LED50")
 					(unit 1)
 				)
 			)
@@ -15510,7 +15675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "215ac38c-e84b-42bd-a754-8cd00769e731")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR040"
 			(at 74.93 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -15570,7 +15735,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR016")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -15588,7 +15753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21e1aad4-0148-41ba-b94b-cbfd8b9bc464")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR0107"
 			(at 240.03 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -15648,7 +15813,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR084")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -15666,7 +15831,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "230044ad-3a26-46bc-8184-9838e409298f")
-		(property "Reference" "RGB_LED31"
+		(property "Reference" "RGB_LED39"
 			(at 200.66 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15736,7 +15901,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED31")
+					(reference "RGB_LED39")
 					(unit 1)
 				)
 			)
@@ -15834,7 +15999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2636736a-0548-48b4-844a-f4f5291f0733")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR044"
 			(at 176.53 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -15894,7 +16059,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR058")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -15912,7 +16077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26690eff-89e2-4ced-8338-3eff3e5d5b01")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR079"
 			(at 303.53 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -15972,7 +16137,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0107")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -15990,7 +16155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "271ccbae-f88f-4cfd-badf-bcd021b0e268")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR0117"
 			(at 125.73 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -16050,7 +16215,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR041")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -16068,7 +16233,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29fdc4bd-56e0-4865-bc31-6ae612746390")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR0141"
 			(at 100.33 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -16128,7 +16293,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR031")
+					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
@@ -16386,7 +16551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c83c405-d25d-414a-9e0d-0a687c3428fc")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR01"
 			(at 224.79 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -16447,7 +16612,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR075")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -16465,7 +16630,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c97d81a-9184-48cb-9a35-0c832aa42071")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0109"
 			(at 290.83 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -16525,7 +16690,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0102")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -16543,7 +16708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d1c1b0c-3eb6-439c-968f-723a104c869c")
-		(property "Reference" "RGB_LED58"
+		(property "Reference" "RGB_LED45"
 			(at 353.06 309.8098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16613,7 +16778,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED58")
+					(reference "RGB_LED45")
 					(unit 1)
 				)
 			)
@@ -16631,7 +16796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e563787-980d-41ff-8bf0-d5ae342b83e9")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR0105"
 			(at 189.23 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -16691,7 +16856,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR064")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -16709,7 +16874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f36ba08-6a36-410f-8c54-727a07924e00")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR045"
 			(at 201.93 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -16769,7 +16934,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR066")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -17132,7 +17297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31f7f30f-a9af-4e2b-b1e4-327d419a6565")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR0126"
 			(at 379.73 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -17192,85 +17357,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0139")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 467.36 304.8 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "353546b5-9ed6-41d6-9f7a-96bd4689f607")
-		(property "Reference" "#PWR0144"
-			(at 471.17 304.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 463.296 304.546 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 467.36 304.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 467.36 304.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 467.36 304.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c8a641ae-db63-4a1c-9ab9-3238ac00d2e5")
-		)
-		(instances
-			(project "Custom Keyboard"
-				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0144")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -17403,7 +17490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35a8bf47-375d-4a92-bab4-0acfe53df8bb")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR023"
 			(at 100.33 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -17463,7 +17550,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR025")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -17481,7 +17568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3616de96-47db-4343-b2be-3a204a94c217")
-		(property "Reference" "RGB_LED45"
+		(property "Reference" "RGB_LED15"
 			(at 289.56 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17551,7 +17638,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED45")
+					(reference "RGB_LED15")
 					(unit 1)
 				)
 			)
@@ -17569,7 +17656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36dbf62b-1b54-4950-b758-1a4e7914fd0e")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR025"
 			(at 151.13 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -17629,7 +17716,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR047")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -17727,7 +17814,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37d54389-be36-4a75-9ef6-e6d7539a68aa")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR089"
 			(at 189.23 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -17787,86 +17874,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR063")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 467.36 317.5 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "390feb95-eaf3-4fe5-be6a-bc7bc4267c35")
-		(property "Reference" "#PWR0145"
-			(at 461.01 317.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 463.55 317.4999 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 467.36 317.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 467.36 317.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 467.36 317.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4ef8d5b9-29d5-4648-a793-47a1bfa26b97")
-		)
-		(instances
-			(project "Custom Keyboard"
-				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0145")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -17884,7 +17892,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "396aac68-4d6b-4f0f-a116-eb6ffdc16093")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR093"
 			(at 297.18 308.61 0)
 			(hide yes)
 			(show_name no)
@@ -17945,7 +17953,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0101")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -17963,7 +17971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b1dcd3e-c4c8-4d02-af89-14ac590b1d05")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR055"
 			(at 46.99 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -18023,7 +18031,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR07")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -18041,7 +18049,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b27501b-7068-4764-a512-61656702fc69")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR010"
 			(at 100.33 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -18101,7 +18109,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR023")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -18119,7 +18127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b72e842-5776-4d8f-89e2-b0492c8b5074")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR031"
 			(at 303.53 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -18179,7 +18187,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0104")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -18187,7 +18195,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 29.21 251.46 0)
+		(at 21.59 273.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18198,7 +18206,7 @@
 		(fields_autoplaced yes)
 		(uuid "3bd8e0db-6fc8-4a1f-a797-0d3983ad088b")
 		(property "Reference" "C1"
-			(at 33.02 249.3009 0)
+			(at 25.4 270.8909 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18209,7 +18217,7 @@
 			)
 		)
 		(property "Value" "1000uF"
-			(at 33.02 251.8409 0)
+			(at 25.4 273.4309 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18220,7 +18228,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
-			(at 30.1752 255.27 0)
+			(at 22.5552 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18231,7 +18239,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 251.46 0)
+			(at 21.59 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18242,7 +18250,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 29.21 251.46 0)
+			(at 21.59 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18253,7 +18261,7 @@
 			)
 		)
 		(property "KiLib_Generator" "capacitor/THT/other"
-			(at 29.21 251.46 0)
+			(at 21.59 273.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18290,7 +18298,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c315b86-0904-4be2-84ad-d08a10a81314")
-		(property "Reference" "RGB_LED8"
+		(property "Reference" "RGB_LED21"
 			(at 86.36 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18360,7 +18368,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED8")
+					(reference "RGB_LED21")
 					(unit 1)
 				)
 			)
@@ -18573,7 +18581,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e0e2df9-a21e-4ebc-9bc0-da29d5f6ae88")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR0138"
 			(at 379.73 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -18633,7 +18641,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0140")
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -18651,7 +18659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e42a31a-8d24-430f-b375-98c54c6c6109")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR0154"
 			(at 379.73 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -18711,7 +18719,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0142")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -18729,7 +18737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e9a049c-e294-4956-894e-1195fcec4e09")
-		(property "Reference" "RGB_LED54"
+		(property "Reference" "RGB_LED17"
 			(at 340.36 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18799,7 +18807,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED54")
+					(reference "RGB_LED17")
 					(unit 1)
 				)
 			)
@@ -18897,7 +18905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "406429b1-93a3-428a-8a09-5a92d203dce3")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR059"
 			(at 151.13 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -18957,7 +18965,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR049")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -19055,7 +19063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "420cf065-9114-4764-a4ff-792862b5707e")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0137"
 			(at 328.93 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -19115,7 +19123,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0120")
+					(reference "#PWR0137")
 					(unit 1)
 				)
 			)
@@ -19248,7 +19256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42d2c569-bf3c-4f51-87aa-a1c12c486c4f")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR035"
 			(at 539.75 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -19308,7 +19316,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0152")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -19326,7 +19334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42e9c92a-18df-4752-90ca-07f2084dd178")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR0115"
 			(at 46.99 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -19386,7 +19394,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR011")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -19484,7 +19492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4393d0cd-de14-49eb-99ae-9878303e672d")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR047"
 			(at 252.73 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -19544,7 +19552,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR086")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -19792,7 +19800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45ecd38f-5ba5-4a60-ab51-952caa31cdab")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR086"
 			(at 113.03 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -19852,7 +19860,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR033")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -19870,7 +19878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45fb913c-7294-4c46-97ce-b57c3d1a3262")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0152"
 			(at 328.93 382.27 0)
 			(hide yes)
 			(show_name no)
@@ -19930,7 +19938,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0122")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -20028,7 +20036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "464fe994-552a-444e-b053-9b7e3e075979")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR0133"
 			(at 227.33 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -20088,7 +20096,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR082")
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
@@ -20106,7 +20114,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46a21b98-7bc1-4922-95c0-10def24ac71a")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR028"
 			(at 227.33 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -20166,7 +20174,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR077")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -20184,7 +20192,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "487b27bd-8611-4393-a365-1b4cca38b77d")
-		(property "Reference" "RGB_LED50"
+		(property "Reference" "RGB_LED30"
 			(at 314.96 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20254,7 +20262,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED50")
+					(reference "RGB_LED30")
 					(unit 1)
 				)
 			)
@@ -20272,7 +20280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "497e7c7c-24cb-4521-998d-dbadf4e36b72")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR068"
 			(at 379.73 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -20332,7 +20340,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0135")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -20350,7 +20358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "499d3b9d-a93a-4d51-a2fe-dc344b214300")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR042"
 			(at 125.73 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -20410,7 +20418,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR038")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -20543,7 +20551,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a937ee9-7641-456f-a729-719af253664d")
-		(property "Reference" "RGB_LED43"
+		(property "Reference" "RGB_LED54"
 			(at 264.16 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20613,7 +20621,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED43")
+					(reference "RGB_LED54")
 					(unit 1)
 				)
 			)
@@ -20787,7 +20795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b240589-52b4-48e1-953a-dff6c4ac744b")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR049"
 			(at 303.53 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -20847,7 +20855,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0105")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -20865,7 +20873,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4beb3b4c-d2a6-4b76-a83d-6d5fa662dfe7")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR0128"
 			(at 100.33 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -20925,7 +20933,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR030")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -20943,7 +20951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ce3e006-6179-43a8-8de4-923d7cb02379")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR019"
 			(at 151.13 254 0)
 			(hide yes)
 			(show_name no)
@@ -21003,7 +21011,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR046")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -21189,7 +21197,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4dea0ebd-fc99-408e-a1bf-4b137138e8b8")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR022"
 			(at 74.93 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -21249,7 +21257,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR015")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -21497,7 +21505,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "507625f7-ac6a-4eed-a9d9-2c2879ca6fec")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR07"
 			(at 374.65 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -21558,7 +21566,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0132")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -21576,7 +21584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50c45f3b-908b-4b46-877b-0da8b77adf82")
-		(property "Reference" "RGB_LED46"
+		(property "Reference" "RGB_LED29"
 			(at 289.56 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21646,7 +21654,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED46")
+					(reference "RGB_LED29")
 					(unit 1)
 				)
 			)
@@ -21664,7 +21672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50d4c00f-66c2-455c-ad87-9d9d0e5ec3fb")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR074"
 			(at 176.53 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -21724,7 +21732,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR060")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -21857,7 +21865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5276683a-81de-4d8d-9b2a-43181f43cb47")
-		(property "Reference" "#PWR0150"
+		(property "Reference" "#PWR0114"
 			(at 539.75 339.09 0)
 			(hide yes)
 			(show_name no)
@@ -21917,7 +21925,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0150")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -22015,7 +22023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52dc1a7c-099a-4d16-858e-d39a24af8580")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR070"
 			(at 74.93 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -22075,7 +22083,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR018")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -22093,7 +22101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53e9842d-ad93-4b6d-a3f8-4bf473c5fc44")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR0103"
 			(at 138.43 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -22153,7 +22161,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR044")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -22171,7 +22179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54342c5a-03d6-4af7-bd09-8cabd712ea72")
-		(property "Reference" "RGB_LED42"
+		(property "Reference" "RGB_LED28"
 			(at 264.16 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22241,7 +22249,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED42")
+					(reference "RGB_LED28")
 					(unit 1)
 				)
 			)
@@ -22259,7 +22267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5464e278-8110-4e51-8693-9f244e32cd56")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR064"
 			(at 278.13 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -22319,7 +22327,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR096")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -22413,7 +22421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54924620-1a01-4378-a921-7279f5638c40")
-		(property "Reference" "RGB_LED15"
+		(property "Reference" "RGB_LED61"
 			(at 111.76 361.8798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22483,7 +22491,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED15")
+					(reference "RGB_LED61")
 					(unit 1)
 				)
 			)
@@ -22501,7 +22509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55027beb-df76-4c38-9666-4ff2de12cf98")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR021"
 			(at 46.99 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -22561,7 +22569,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR05")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -22579,7 +22587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5571e3e0-d133-4c85-a0bc-3e414a809c7f")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR06"
 			(at 345.44 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -22640,7 +22648,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0123")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -22933,7 +22941,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ad4edb6-0ffe-4cd9-baf0-f1d0c4beefd3")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR072"
 			(at 125.73 294.64 0)
 			(hide yes)
 			(show_name no)
@@ -22993,7 +23001,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR040")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -23011,7 +23019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5eaf5385-0a05-4c49-9c23-88e9f7b5ac6b")
-		(property "Reference" "RGB_LED12"
+		(property "Reference" "RGB_LED8"
 			(at 111.76 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23081,7 +23089,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED12")
+					(reference "RGB_LED8")
 					(unit 1)
 				)
 			)
@@ -23179,7 +23187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f789c43-94ad-4f36-bf9a-60f741848ddd")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR0139"
 			(at 46.99 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -23239,7 +23247,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR013")
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -23257,7 +23265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60842a4a-da37-4bb1-a652-62dbb0d027e6")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR071"
 			(at 100.33 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -23317,7 +23325,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR028")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -23335,7 +23343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6203a386-ce3a-459a-81da-a19ac6a695ed")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR063"
 			(at 252.73 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -23395,7 +23403,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR087")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -23413,7 +23421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6260295d-f49d-471e-9bcc-f2be104a169b")
-		(property "Reference" "RGB_LED20"
+		(property "Reference" "RGB_LED49"
 			(at 137.16 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23483,180 +23491,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Interface_Expansion:MCP23017x-x-SO")
-		(at 480.06 302.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "62cdb26f-ec4d-4079-9362-a08d6beea484")
-		(property "Reference" "U2"
-			(at 482.2033 274.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MCP23017x-x-SO"
-			(at 482.2033 276.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm"
-			(at 485.14 327.66 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf"
-			(at 485.14 330.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "16-bit I/O expander, I2C, interrupts, w pull-ups, GPA7/GPB7 output only (https://microchip.my.site.com/s/article/GPA7---GPB7-Cannot-Be-Used-as-Inputs-In-MCP23017),  SOIC-28"
-			(at 480.06 302.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "package/gullwing"
-			(at 480.06 302.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "18"
-			(uuid "9f99584a-f358-40e3-8651-40200fc87e3c")
-		)
-		(pin "13"
-			(uuid "f7e869ee-be80-4f81-837f-26cd3902838e")
-		)
-		(pin "14"
-			(uuid "04af0d6a-33e8-400d-8a6c-5d21d8303152")
-		)
-		(pin "6"
-			(uuid "eb93b779-ee46-4da0-8bb2-9c4055b25497")
-		)
-		(pin "10"
-			(uuid "f101d487-42f5-417a-8dd7-686d4f8376cb")
-		)
-		(pin "17"
-			(uuid "5e468a3f-b882-4794-8b13-1a7bf47846da")
-		)
-		(pin "7"
-			(uuid "40fa280e-1d8e-4f3b-bd34-787a9323c072")
-		)
-		(pin "8"
-			(uuid "2aa5ee18-507c-4404-84d5-29c391454689")
-		)
-		(pin "15"
-			(uuid "5fe34811-12fd-4101-a919-9820ef220005")
-		)
-		(pin "12"
-			(uuid "311b635b-06bb-49e2-9c63-fe5712b59972")
-		)
-		(pin "9"
-			(uuid "6b7ad391-66bd-4eba-ba8b-8fc496248ff3")
-		)
-		(pin "11"
-			(uuid "da8bc85b-34f5-47ca-82fe-17f998f0a5ef")
-		)
-		(pin "5"
-			(uuid "f4d0f87e-f424-4c48-90c0-a375b53aa86d")
-		)
-		(pin "16"
-			(uuid "72194dd9-9727-442f-b719-be513cf9ad6e")
-		)
-		(pin "4"
-			(uuid "2a6e4a6f-2840-43a4-8355-d6df75896dc3")
-		)
-		(pin "24"
-			(uuid "01f41da1-3bc6-4266-9787-460d6c4fba30")
-		)
-		(pin "25"
-			(uuid "cf20b13b-470e-4298-bfc0-061376486fc7")
-		)
-		(pin "19"
-			(uuid "e905564a-0ca8-443a-a983-bbfa8d63f4b9")
-		)
-		(pin "23"
-			(uuid "a475dfb0-549f-4a3a-85c1-02e0b0f386ef")
-		)
-		(pin "20"
-			(uuid "434efa4c-f3c7-4b8d-869a-355a0319a0b5")
-		)
-		(pin "21"
-			(uuid "35c6d713-17d3-4d37-88ba-36deb2f68bfb")
-		)
-		(pin "22"
-			(uuid "6d423e05-d3a8-4b5b-b567-1845ce89d5c5")
-		)
-		(pin "3"
-			(uuid "b1a05905-367f-43e8-85a7-2d07c2f43a2f")
-		)
-		(pin "1"
-			(uuid "3dbb446a-598f-438e-a6bb-111fe0c71295")
-		)
-		(pin "2"
-			(uuid "26d28cf7-d9dc-49b4-83a2-d6efbdcf095a")
-		)
-		(pin "27"
-			(uuid "f44ca592-f55d-465f-b1e3-80a54115cf71")
-		)
-		(pin "26"
-			(uuid "b75d815c-6cc5-4d42-973f-a3cf5e2a9c9d")
-		)
-		(pin "28"
-			(uuid "bcd393c4-a16f-4b67-9dac-76449488eac1")
-		)
-		(instances
-			(project "Custom Keyboard"
-				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "U2")
+					(reference "RGB_LED49")
 					(unit 1)
 				)
 			)
@@ -23674,7 +23509,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62e8776e-ce82-41a0-8cfa-46134667f24d")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR014"
 			(at 440.69 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -23734,7 +23569,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0143")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -23752,7 +23587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6440ecb3-c9c0-4a77-8a0a-068aba77678b")
-		(property "Reference" "RGB_LED4"
+		(property "Reference" "RGB_LED34"
 			(at 58.42 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23822,7 +23657,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED4")
+					(reference "RGB_LED34")
 					(unit 1)
 				)
 			)
@@ -23955,7 +23790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64dc6afb-99c5-4aa2-96fe-cd4dfb53bc41")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR0116"
 			(at 100.33 327.66 0)
 			(hide yes)
 			(show_name no)
@@ -24015,7 +23850,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR029")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -24228,7 +24063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "695fc2e4-2868-48d3-8d05-96bdc472622b")
-		(property "Reference" "RGB_LED5"
+		(property "Reference" "RGB_LED47"
 			(at 58.42 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24298,7 +24133,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED5")
+					(reference "RGB_LED47")
 					(unit 1)
 				)
 			)
@@ -24519,7 +24354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c5e5c99-c671-4b5c-85a3-5ffc45fbbf81")
-		(property "Reference" "RGB_LED17"
+		(property "Reference" "RGB_LED3"
 			(at 137.16 233.6098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24589,7 +24424,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED17")
+					(reference "RGB_LED3")
 					(unit 1)
 				)
 			)
@@ -24813,7 +24648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dd7a9cf-9fb1-4852-b040-8150836035cf")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR0132"
 			(at 201.93 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -24873,7 +24708,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR070")
+					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -24971,7 +24806,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f1df1f3-c880-4c11-b114-52cf6cb9bea9")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0124"
 			(at 303.53 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -25031,7 +24866,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0108")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -25049,7 +24884,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f26c2c9-e297-4568-92d9-163ec03ae448")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR056"
 			(at 74.93 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -25109,7 +24944,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR017")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -25127,7 +24962,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f734b36-0c30-494e-8e82-2e25f8daa8e3")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR091"
 			(at 240.03 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -25187,7 +25022,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR083")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -25205,7 +25040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6fcddb40-cd04-47b9-9c83-2530c37b5768")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR078"
 			(at 278.13 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -25265,7 +25100,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR097")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -25283,7 +25118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "707a6208-1647-44eb-a01c-634a73c6c0b8")
-		(property "Reference" "RGB_LED11"
+		(property "Reference" "RGB_LED2"
 			(at 111.76 233.6098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25353,7 +25188,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED11")
+					(reference "RGB_LED2")
 					(unit 1)
 				)
 			)
@@ -25371,7 +25206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "710f7e3a-5e03-4edf-92d9-591a73146ed6")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR092"
 			(at 265.43 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -25431,7 +25266,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR091")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -25449,7 +25284,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71807fda-9c2a-4dfc-8dd4-5ab7ba40e351")
-		(property "Reference" "RGB_LED9"
+		(property "Reference" "RGB_LED60"
 			(at 86.36 361.8798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25519,7 +25354,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED9")
+					(reference "RGB_LED60")
 					(unit 1)
 				)
 			)
@@ -25537,7 +25372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72202716-10ac-4892-946b-24c132730f7a")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR062"
 			(at 227.33 276.86 0)
 			(hide yes)
 			(show_name no)
@@ -25597,7 +25432,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR079")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -25615,7 +25450,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72554cad-3d3b-4496-80b0-eebb1a9f462c")
-		(property "Reference" "RGB_LED39"
+		(property "Reference" "RGB_LED53"
 			(at 238.76 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25685,7 +25520,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED39")
+					(reference "RGB_LED53")
 					(unit 1)
 				)
 			)
@@ -25703,7 +25538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72618563-bf5b-4925-bedc-f6d32ec5c6df")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0135"
 			(at 278.13 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -25763,7 +25598,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR099")
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -25781,7 +25616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73dec774-ef0d-4756-a079-0082e957a745")
-		(property "Reference" "RGB_LED37"
+		(property "Reference" "RGB_LED13"
 			(at 238.76 259.0098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25851,7 +25686,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED37")
+					(reference "RGB_LED13")
 					(unit 1)
 				)
 			)
@@ -25869,7 +25704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "749386fe-c52d-44c2-8d76-032b1348066b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR016"
 			(at 46.99 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -25929,7 +25764,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR04")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -26045,6 +25880,88 @@
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
 					(reference "D44")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 509.27 259.08 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "754da018-d9be-4a62-a8ad-2365597d9f1b")
+		(property "Reference" "R3"
+			(at 511.81 257.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R"
+			(at 511.81 260.3499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 511.048 259.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 509.27 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 509.27 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5c778ffd-8895-4fd2-8271-8707208035d8")
+		)
+		(pin "2"
+			(uuid "fc150c6f-557b-4564-b9fd-18dceb48076d")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -26177,7 +26094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77029009-a5e2-45eb-9ae5-efdb74f5beaf")
-		(property "Reference" "RGB_LED63"
+		(property "Reference" "RGB_LED33"
 			(at 391.16 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26247,7 +26164,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED63")
+					(reference "RGB_LED33")
 					(unit 1)
 				)
 			)
@@ -26265,7 +26182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7732dfa8-8833-4477-89f8-69cae2f56f77")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR0108"
 			(at 265.43 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -26325,7 +26242,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR092")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -26343,7 +26260,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77b12848-6a43-45b1-94f8-662e4d1efb9a")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0125"
 			(at 328.93 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -26403,7 +26320,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0119")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -26501,7 +26418,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78e85e6b-f9f9-4ef0-8668-54407e5ab21a")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR0118"
 			(at 151.13 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -26561,7 +26478,124 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR051")
+					(reference "#PWR0118")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "74xGxx:74AHCT14")
+		(at 27.94 252.73 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "79922ad0-fefd-4ab5-bc90-1a2fb455ef66")
+		(property "Reference" "U2"
+			(at 27.94 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 27.94 252.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
+			(at 27.94 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 27.94 252.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "52bc1d82-561f-431d-9d42-c0201adb00f4")
+		)
+		(pin ""
+			(uuid "16bdb4d6-0597-4641-a7e4-9974e50ca806")
+		)
+		(pin ""
+			(uuid "1a8d280e-1181-44e1-bc13-73e696208957")
+		)
+		(pin ""
+			(uuid "bca18116-8c31-43a6-be54-3f3813f3c86d")
+		)
+		(pin ""
+			(uuid "c75b32cf-1433-4e50-8558-96ad42332669")
+		)
+		(pin ""
+			(uuid "add94f17-bcd8-4256-ac72-83ea98de8a6c")
+		)
+		(pin ""
+			(uuid "8ffb66b0-35c5-4838-bde3-68e459d35b22")
+		)
+		(pin ""
+			(uuid "3fcb81c1-31a9-4c45-a1e1-65c18cd9c6d9")
+		)
+		(pin ""
+			(uuid "5e70fbad-ae48-4a75-b785-3f7c5955ecdf")
+		)
+		(pin ""
+			(uuid "df798bc6-6fe2-40c6-9410-d3665a221780")
+		)
+		(pin ""
+			(uuid "7d48ac20-6709-4ffa-9987-bc7ce5cf2c0b")
+		)
+		(pin ""
+			(uuid "6ca798c5-44c6-4b29-809c-8c442ef05c9d")
+		)
+		(pin ""
+			(uuid "890e47bb-0d1a-4c49-8409-21bbdede2081")
+		)
+		(pin ""
+			(uuid "3863025e-6cb7-4cfb-9b33-7e5544a337d5")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -26579,7 +26613,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79972774-3870-4084-a181-11178c442766")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR032"
 			(at 328.93 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -26639,7 +26673,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0115")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -26657,7 +26691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a3a4d0d-a990-4fed-8066-d94aa67e21a8")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR050"
 			(at 328.93 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -26717,7 +26751,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0116")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -26735,7 +26769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bcc68ab-acfb-4b40-8ae9-70a6ae4238b2")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR090"
 			(at 214.63 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -26795,7 +26829,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR073")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -26813,7 +26847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7daa4587-38f5-4e74-9b27-014e2254ea59")
-		(property "Reference" "RGB_LED2"
+		(property "Reference" "RGB_LED6"
 			(at 58.42 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26883,7 +26917,85 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED2")
+					(reference "RGB_LED6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 509.27 255.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7dc624fe-19d9-4a0c-a139-616225602f27")
+		(property "Reference" "#PWR097"
+			(at 509.27 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 509.27 250.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 509.27 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 509.27 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 509.27 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e4775af-0df6-406d-b56d-977f6a470b1c")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -27371,7 +27483,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82ce0422-884e-41a9-be49-cd10cd7edb25")
-		(property "Reference" "RGB_LED27"
+		(property "Reference" "RGB_LED5"
 			(at 187.96 233.6098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27441,7 +27553,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED27")
+					(reference "RGB_LED5")
 					(unit 1)
 				)
 			)
@@ -27619,7 +27731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84fa488c-6698-4042-b5cc-c233404ac138")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR067"
 			(at 354.33 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -27679,7 +27791,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0128")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -27812,7 +27924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8568f2f9-f7c6-4d42-baba-c85d70b839d9")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR029"
 			(at 252.73 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -27872,7 +27984,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR085")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -27970,7 +28082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "879335ee-0659-4cfe-90aa-528f671152f7")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR03"
 			(at 287.02 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -28031,7 +28143,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0103")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -28129,7 +28241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "889c73a5-322b-4191-90a8-59819b5eeb94")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR082"
 			(at 379.73 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -28189,7 +28301,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0136")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -28207,7 +28319,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88b28b53-9d0c-4f3a-bd45-c5efee768247")
-		(property "Reference" "RGB_LED34"
+		(property "Reference" "RGB_LED52"
 			(at 213.36 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28277,7 +28389,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED34")
+					(reference "RGB_LED52")
 					(unit 1)
 				)
 			)
@@ -28375,7 +28487,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8cc36d07-11a0-4c35-9b1a-43b09d1a2617")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR048"
 			(at 278.13 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -28435,7 +28547,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR095")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -28453,7 +28565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e6feed4-d69b-4b1e-bff5-f1ff84da9ec3")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR0112"
 			(at 379.73 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -28513,7 +28625,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0138")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -28531,7 +28643,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ebed0ef-bf94-4c8a-8c72-4e6eae0dd49b")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0145"
 			(at 354.33 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -28591,7 +28703,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0130")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -28689,7 +28801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f6666ea-65d8-40db-a5a9-af1faab8194f")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR0147"
 			(at 46.99 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -28749,7 +28861,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR014")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -28830,6 +28942,88 @@
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
 					(reference "SW6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 497.84 259.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9015caf1-50ee-4656-b917-862fc9edc85f")
+		(property "Reference" "R2"
+			(at 500.38 257.8099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7k"
+			(at 500.38 260.3499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 496.062 259.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 497.84 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 497.84 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "770e88aa-7d7e-48cd-9ce7-0b6ff82e405d")
+		)
+		(pin "2"
+			(uuid "cf49625c-1199-41a9-b12b-d4c5226a45a2")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -29157,7 +29351,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91390c93-c1c0-43ec-9549-77ec50c85204")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR077"
 			(at 252.73 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -29217,7 +29411,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR088")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -29235,7 +29429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91b5edd2-f73b-4454-94e3-471f3115a804")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR034"
 			(at 379.73 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -29295,7 +29489,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0133")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -29498,7 +29692,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 29.21 255.27 0)
+		(at 21.59 276.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29508,8 +29702,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "937db36e-2798-4b8c-9ec7-cb833d11406c")
-		(property "Reference" "#PWR02"
-			(at 29.21 261.62 0)
+		(property "Reference" "#PWR054"
+			(at 21.59 283.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29520,7 +29714,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 29.21 260.35 0)
+			(at 21.59 281.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29530,7 +29724,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 29.21 255.27 0)
+			(at 21.59 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29541,7 +29735,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 255.27 0)
+			(at 21.59 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29552,7 +29746,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 29.21 255.27 0)
+			(at 21.59 276.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29568,7 +29762,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR02")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -29664,7 +29858,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "943f146b-8542-4daf-8179-c4de57392350")
-		(property "Reference" "RGB_LED33"
+		(property "Reference" "RGB_LED26"
 			(at 213.36 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29734,7 +29928,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED33")
+					(reference "RGB_LED26")
 					(unit 1)
 				)
 			)
@@ -29752,7 +29946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94a6d812-885a-465d-95c0-35ec7170a533")
-		(property "Reference" "RGB_LED21"
+		(property "Reference" "RGB_LED37"
 			(at 149.86 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29822,7 +30016,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED21")
+					(reference "RGB_LED37")
 					(unit 1)
 				)
 			)
@@ -30059,6 +30253,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 497.84 255.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "96846230-fad9-4dee-a2e4-0aed1cc94019")
+		(property "Reference" "#PWR083"
+			(at 497.84 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 497.84 250.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 497.84 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 497.84 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 497.84 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "24c6b360-722d-406d-9742-5aca0018a9ce")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B")
 		(at 328.93 341.63 0)
 		(unit 1)
@@ -30070,7 +30342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97038e63-5088-48d7-953c-9f4f3a4d740f")
-		(property "Reference" "RGB_LED56"
+		(property "Reference" "RGB_LED57"
 			(at 340.36 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30140,7 +30412,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED56")
+					(reference "RGB_LED57")
 					(unit 1)
 				)
 			)
@@ -30158,7 +30430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "971b88f4-d20e-481f-8880-87546b16d469")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR0100"
 			(at 46.99 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -30218,7 +30490,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR010")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -30351,7 +30623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9875b775-65cf-41f9-8585-b585de877a4a")
-		(property "Reference" "RGB_LED16"
+		(property "Reference" "RGB_LED36"
 			(at 124.46 309.8098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30421,7 +30693,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED16")
+					(reference "RGB_LED36")
 					(unit 1)
 				)
 			)
@@ -30554,7 +30826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99a6b1a7-d0bd-4b1e-bb5c-40eb8e4b3c10")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR012"
 			(at 151.13 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -30614,7 +30886,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR045")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -30632,7 +30904,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99a92f7a-a446-4b24-9967-9d0031cd2d92")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR0122"
 			(at 252.73 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -30692,7 +30964,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR089")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -30825,7 +31097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9bd648c9-6961-498f-b0b0-5537f29ca299")
-		(property "Reference" "RGB_LED44"
+		(property "Reference" "RGB_LED42"
 			(at 276.86 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30895,7 +31167,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED44")
+					(reference "RGB_LED42")
 					(unit 1)
 				)
 			)
@@ -30913,7 +31185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d4e0636-b5dd-4825-82a2-256d7bf20f51")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR0119"
 			(at 176.53 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -30973,7 +31245,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR061")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -30991,7 +31263,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9da38b81-b1ab-44bb-8aaa-7a337fc497d0")
-		(property "Reference" "RGB_LED59"
+		(property "Reference" "RGB_LED18"
 			(at 365.76 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31061,7 +31333,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED59")
+					(reference "RGB_LED18")
 					(unit 1)
 				)
 			)
@@ -31239,7 +31511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fd20cce-248e-4f3b-874c-e30d9cc5d518")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR04"
 			(at 283.21 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -31299,7 +31571,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0100")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -31317,7 +31589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fea5ac7-6357-4a7b-b845-2c549d4ff856")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR027"
 			(at 201.93 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -31377,7 +31649,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR065")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -31395,7 +31667,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a00c1674-43c3-41bd-91a7-7b8aaf5c5deb")
-		(property "Reference" "RGB_LED62"
+		(property "Reference" "RGB_LED19"
 			(at 391.16 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31465,7 +31737,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED62")
+					(reference "RGB_LED19")
 					(unit 1)
 				)
 			)
@@ -31483,7 +31755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0456c82-2eef-46bc-8675-db5c6cc0e829")
-		(property "Reference" "RGB_LED3"
+		(property "Reference" "RGB_LED20"
 			(at 58.42 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31553,7 +31825,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED3")
+					(reference "RGB_LED20")
 					(unit 1)
 				)
 			)
@@ -31571,7 +31843,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0da011b-e5f4-4782-befb-8aa6934d1ef6")
-		(property "Reference" "RGB_LED22"
+		(property "Reference" "RGB_LED4"
 			(at 162.56 233.6098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31641,7 +31913,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED22")
+					(reference "RGB_LED4")
 					(unit 1)
 				)
 			)
@@ -31659,7 +31931,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1129388-220a-49cb-a08e-027757c2ddb4")
-		(property "Reference" "RGB_LED64"
+		(property "Reference" "RGB_LED46"
 			(at 391.16 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31729,7 +32001,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED64")
+					(reference "RGB_LED46")
 					(unit 1)
 				)
 			)
@@ -31827,7 +32099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1bf041b-cee1-4fbc-babf-e263d3a27f88")
-		(property "Reference" "RGB_LED53"
+		(property "Reference" "RGB_LED44"
 			(at 327.66 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31897,7 +32169,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED53")
+					(reference "RGB_LED44")
 					(unit 1)
 				)
 			)
@@ -31915,7 +32187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a33a0571-a38b-4b2b-9870-75d50088cfa5")
-		(property "Reference" "RGB_LED49"
+		(property "Reference" "RGB_LED16"
 			(at 314.96 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31985,7 +32257,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED49")
+					(reference "RGB_LED16")
 					(unit 1)
 				)
 			)
@@ -32309,7 +32581,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a737b769-a994-4022-bc17-fe16048b972c")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 176.53 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -32369,7 +32641,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR059")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -32387,7 +32659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7568dc6-d89a-4951-993a-17de925fbd07")
-		(property "Reference" "RGB_LED61"
+		(property "Reference" "RGB_LED65"
 			(at 365.76 361.8798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32457,7 +32729,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED61")
+					(reference "RGB_LED65")
 					(unit 1)
 				)
 			)
@@ -32554,7 +32826,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 480.06 275.59 0)
+		(at 480.06 285.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32563,8 +32835,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac96486e-41bd-4300-b5bb-6a4eecd050e3")
-		(property "Reference" "#PWR0148"
-			(at 480.06 279.4 0)
+		(property "Reference" "#PWR053"
+			(at 480.06 289.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32575,7 +32847,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 479.552 266.954 0)
+			(at 479.552 281.686 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32585,7 +32857,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 480.06 275.59 0)
+			(at 480.06 285.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32596,7 +32868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 480.06 275.59 0)
+			(at 480.06 285.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32607,7 +32879,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 480.06 275.59 0)
+			(at 480.06 285.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32623,7 +32895,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0148")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -32641,7 +32913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acde0f9f-b171-41f2-8232-edd884d625bf")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0111"
 			(at 341.63 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -32701,7 +32973,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0125")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -32719,7 +32991,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad30c469-712a-4149-8f07-0b56baf93135")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0136"
 			(at 303.53 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -32779,7 +33051,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0109")
+					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -32797,7 +33069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae4ec8fc-7bc1-4370-82c7-6f4ecd2370a4")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR0150"
 			(at 201.93 382.27 0)
 			(hide yes)
 			(show_name no)
@@ -32857,7 +33129,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR072")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -32875,7 +33147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af2d6bff-3781-45a0-83b1-6a5dc4badf17")
-		(property "Reference" "RGB_LED36"
+		(property "Reference" "RGB_LED40"
 			(at 226.06 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32945,86 +33217,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 467.36 322.58 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af460009-f1b0-4665-bf6c-92ceae051739")
-		(property "Reference" "#PWR0147"
-			(at 461.01 322.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 463.55 322.5799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 467.36 322.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 467.36 322.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 467.36 322.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "49852496-a999-479e-9be8-a2b782842614")
-		)
-		(instances
-			(project "Custom Keyboard"
-				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0147")
+					(reference "RGB_LED40")
 					(unit 1)
 				)
 			)
@@ -33042,7 +33235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af9a841f-edc3-4ff9-ab01-0c9e66ac3968")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR0149"
 			(at 100.33 382.27 0)
 			(hide yes)
 			(show_name no)
@@ -33102,7 +33295,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR032")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -33120,7 +33313,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afb30551-0d29-47a8-bb93-a8f3c4087680")
-		(property "Reference" "RGB_LED28"
+		(property "Reference" "RGB_LED11"
 			(at 187.96 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33190,7 +33383,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED28")
+					(reference "RGB_LED11")
 					(unit 1)
 				)
 			)
@@ -33208,7 +33401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afb34944-571d-43b0-bdf9-5c991dae1ae5")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR0148"
 			(at 74.93 382.27 0)
 			(hide yes)
 			(show_name no)
@@ -33268,7 +33461,84 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR020")
+					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 34.29 246.38 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b024fc7d-6219-4351-8182-27abfc8603fb")
+		(property "Reference" "#PWR015"
+			(at 30.48 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 35.56 244.602 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 34.29 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 34.29 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4a9c257e-033c-41cc-8b3c-4bf6cec1dce1")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -33286,7 +33556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0d0f02d-5791-415e-8f48-d6a65270edf7")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0144"
 			(at 328.93 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -33346,7 +33616,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0121")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -33479,7 +33749,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1b069db-87ab-482a-b68b-7c9c1ae22f89")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR087"
 			(at 138.43 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -33539,7 +33809,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR043")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -33557,7 +33827,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b42ad243-04f6-4949-bee7-3a72d4662f15")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR080"
 			(at 328.93 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -33617,7 +33887,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0118")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -33635,7 +33905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b452bbdf-ddaa-4dba-b621-0f1768e5a2b3")
-		(property "Reference" "RGB_LED57"
+		(property "Reference" "RGB_LED64"
 			(at 340.36 361.8798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33705,7 +33975,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED57")
+					(reference "RGB_LED64")
 					(unit 1)
 				)
 			)
@@ -33723,7 +33993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b45ee9d0-2a43-4589-80db-0a49ba74549b")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR017"
 			(at 100.33 254 0)
 			(hide yes)
 			(show_name no)
@@ -33783,7 +34053,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR024")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -33916,7 +34186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4e88d3d-3c2b-494e-a46a-8804348df987")
-		(property "Reference" "RGB_LED6"
+		(property "Reference" "RGB_LED59"
 			(at 58.42 362.8546 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33986,7 +34256,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED6")
+					(reference "RGB_LED59")
 					(unit 1)
 				)
 			)
@@ -34084,7 +34354,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b597ea5c-a8a6-414c-a6b9-c6a6aa079675")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR013"
 			(at 176.53 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -34144,7 +34414,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR055")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -34162,7 +34432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5a4cf52-ecb4-4435-a52e-552739496d4a")
-		(property "Reference" "RGB_LED38"
+		(property "Reference" "RGB_LED27"
 			(at 238.76 285.3846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34232,7 +34502,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED38")
+					(reference "RGB_LED27")
 					(unit 1)
 				)
 			)
@@ -34365,7 +34635,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b68475fd-e1a4-4918-8f71-d3c4d3f89606")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR058"
 			(at 125.73 276.86 0)
 			(hide yes)
 			(show_name no)
@@ -34425,7 +34695,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR039")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -34639,7 +34909,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 480.06 327.66 0)
+		(at 480.06 313.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -34649,8 +34919,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8c4a9bc-ef12-4119-bea3-e06a4169cc4d")
-		(property "Reference" "#PWR0149"
-			(at 480.06 334.01 0)
+		(property "Reference" "#PWR0113"
+			(at 480.06 320.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34661,7 +34931,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 480.06 332.74 0)
+			(at 480.06 318.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34671,7 +34941,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 480.06 327.66 0)
+			(at 480.06 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34682,7 +34952,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 480.06 327.66 0)
+			(at 480.06 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34693,7 +34963,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 480.06 327.66 0)
+			(at 480.06 313.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34709,7 +34979,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0149")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -34727,7 +34997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8de134a-ece3-4735-99c9-2973bd3b8340")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR041"
 			(at 100.33 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -34787,7 +35057,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR026")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -35000,7 +35270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "baaf1814-618c-4e86-98d0-71fc5441995a")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR0101"
 			(at 87.63 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -35060,7 +35330,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR022")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -35582,6 +35852,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 469.9 306.07 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf89eeb7-66ad-4732-8001-2d2cdc06a35d")
+		(property "Reference" "#PWR0156"
+			(at 463.55 306.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 466.09 306.0699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 469.9 306.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 469.9 306.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 469.9 306.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "608e1683-8fa2-462f-af0c-797df419bd1b")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "#PWR0156")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "LED:WS2812B")
 		(at 303.53 368.3 0)
 		(unit 1)
@@ -35593,7 +35942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1fd2c83-a5b7-4f73-b1fc-2107c89ae7e2")
-		(property "Reference" "RGB_LED52"
+		(property "Reference" "RGB_LED63"
 			(at 314.96 361.8798 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35663,7 +36012,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED52")
+					(reference "RGB_LED63")
 					(unit 1)
 				)
 			)
@@ -36026,7 +36375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4d82e9a-a2a6-4bd6-a4ea-3fe0b54ea59d")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR069"
 			(at 46.99 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -36086,7 +36435,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR08")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -36184,7 +36533,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5fd0d97-1ca2-4a27-aea6-98b4c6a0be53")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR051"
 			(at 354.33 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -36244,7 +36593,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0127")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -36262,7 +36611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c64964cc-05b9-4595-9fa2-f86616ac7e5e")
-		(property "Reference" "RGB_LED60"
+		(property "Reference" "RGB_LED32"
 			(at 365.76 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36332,7 +36681,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED60")
+					(reference "RGB_LED32")
 					(unit 1)
 				)
 			)
@@ -36350,7 +36699,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6725d43-d227-43fc-bad0-9ecadfba1549")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR0129"
 			(at 125.73 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -36410,7 +36759,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR042")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -36623,7 +36972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7adee6a-5821-41de-9442-6f5761fc47c8")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR0127"
 			(at 46.99 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -36683,7 +37032,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR012")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -36896,7 +37245,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbcc6ca4-9017-43e8-a8c2-dc13bec7a863")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR073"
 			(at 151.13 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -36956,7 +37305,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR050")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -37054,7 +37403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf6d5692-ae47-4fa0-a08f-eeed32eecff4")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR0151"
 			(at 303.53 382.27 0)
 			(hide yes)
 			(show_name no)
@@ -37114,7 +37463,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0111")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -37132,7 +37481,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0cbed75-731b-4869-b9aa-68d23fc64811")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR076"
 			(at 227.33 294.64 0)
 			(hide yes)
 			(show_name no)
@@ -37192,7 +37541,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR080")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -37273,6 +37622,85 @@
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
 					(reference "SW55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 469.9 303.53 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2b525d0-c1da-4339-a2f2-8ce77b80d924")
+		(property "Reference" "#PWR0155"
+			(at 463.55 303.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 466.09 303.5299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 469.9 303.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 469.9 303.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 469.9 303.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c90f7c3d-681e-4b11-bc82-0f4b16e40181")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -37450,7 +37878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d397f329-cf94-4fa0-9964-a3e9071a6d5e")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR0131"
 			(at 176.53 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -37510,7 +37938,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR062")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -37643,7 +38071,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5576bda-f5aa-4995-8cb4-7a006ee6ef30")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR05"
 			(at 308.61 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -37703,7 +38131,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0112")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -37721,7 +38149,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d55eba49-f6f7-469b-90e3-8407d63b2a2c")
-		(property "Reference" "RGB_LED30"
+		(property "Reference" "RGB_LED51"
 			(at 187.96 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37791,7 +38219,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED30")
+					(reference "RGB_LED51")
 					(unit 1)
 				)
 			)
@@ -37809,7 +38237,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6111c1c-67b3-450f-8582-f7e89289e94a")
-		(property "Reference" "RGB_LED13"
+		(property "Reference" "RGB_LED22"
 			(at 111.76 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37879,7 +38307,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED13")
+					(reference "RGB_LED22")
 					(unit 1)
 				)
 			)
@@ -37897,7 +38325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7220144-ab0b-4a33-b8d5-911f2fef828e")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR096"
 			(at 379.73 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -37957,7 +38385,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0137")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -37975,7 +38403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d755614d-5bed-483d-bd8d-c691381c5272")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR075"
 			(at 201.93 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -38035,7 +38463,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR068")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -38256,7 +38684,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d90cad58-4aab-4e6d-ad0c-cdd5811dc6e7")
-		(property "Reference" "RGB_LED18"
+		(property "Reference" "RGB_LED9"
 			(at 137.16 259.9846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38326,7 +38754,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED18")
+					(reference "RGB_LED9")
 					(unit 1)
 				)
 			)
@@ -38344,7 +38772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d921ab49-6cbc-4bac-97c3-21b5c8f0139a")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR0146"
 			(at 379.73 354.33 0)
 			(hide yes)
 			(show_name no)
@@ -38404,7 +38832,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0141")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -38422,7 +38850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d944839a-be43-4374-884d-52551ca49c1c")
-		(property "Reference" "RGB_LED65"
+		(property "Reference" "RGB_LED58"
 			(at 391.16 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38492,7 +38920,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED65")
+					(reference "RGB_LED58")
 					(unit 1)
 				)
 			)
@@ -38510,7 +38938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbf2050f-65fe-4fc6-95c3-c57de9499d31")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR024"
 			(at 125.73 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -38570,7 +38998,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR037")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -38668,7 +39096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df2f4f30-b395-431b-aadf-87b3c9cb4605")
-		(property "Reference" "RGB_LED41"
+		(property "Reference" "RGB_LED14"
 			(at 264.16 259.0098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38738,7 +39166,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED41")
+					(reference "RGB_LED14")
 					(unit 1)
 				)
 			)
@@ -38836,7 +39264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfc3d4f1-6d32-4157-8d0d-b8f12fd5e642")
-		(property "Reference" "RGB_LED32"
+		(property "Reference" "RGB_LED12"
 			(at 213.36 259.0098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38906,7 +39334,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED32")
+					(reference "RGB_LED12")
 					(unit 1)
 				)
 			)
@@ -38924,7 +39352,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e02ee5e7-ba87-42bf-ac11-2883a0dca28d")
-		(property "Reference" "RGB_LED47"
+		(property "Reference" "RGB_LED55"
 			(at 289.56 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38994,7 +39422,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED47")
+					(reference "RGB_LED55")
 					(unit 1)
 				)
 			)
@@ -39012,7 +39440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0959323-8167-4f02-a069-4b3349309f0b")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR081"
 			(at 354.33 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -39072,7 +39500,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0129")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -39090,7 +39518,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e10e7cd9-2cf0-4735-95c4-eb7a2489b814")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR0106"
 			(at 214.63 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -39150,7 +39578,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR074")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -39168,7 +39596,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e1cf4265-b795-4998-94e9-57bcacd8cd81")
-		(property "Reference" "RGB_LED19"
+		(property "Reference" "RGB_LED23"
 			(at 137.16 285.3846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39238,7 +39666,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED19")
+					(reference "RGB_LED23")
 					(unit 1)
 				)
 			)
@@ -39459,7 +39887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5a1300e-5284-4f7b-92e5-594f9d013607")
-		(property "Reference" "RGB_LED55"
+		(property "Reference" "RGB_LED31"
 			(at 340.36 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39529,7 +39957,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED55")
+					(reference "RGB_LED31")
 					(unit 1)
 				)
 			)
@@ -39547,7 +39975,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e727de12-7325-45bb-81ab-856febe63cf2")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR033"
 			(at 354.33 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -39607,7 +40035,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0126")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -39625,7 +40053,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7693b8c-0a6c-48b7-91bd-34f981fe4939")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR0142"
 			(at 201.93 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -39685,7 +40113,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR071")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)
@@ -39703,7 +40131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e76a7815-9e21-4b75-9aaa-59c95fb10ca1")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR026"
 			(at 176.53 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -39763,7 +40191,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR057")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -39781,7 +40209,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e94a5cc9-6e47-4330-85ae-e0e0ca6027ee")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR094"
 			(at 316.23 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -39841,7 +40269,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0113")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -39859,7 +40287,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e985c6ca-8fbe-43ed-8bff-7f484bb2582f")
-		(property "Reference" "RGB_LED14"
+		(property "Reference" "RGB_LED48"
 			(at 111.76 336.1846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39929,7 +40357,131 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED14")
+					(reference "RGB_LED48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Interface_Expansion:PCF8574AP")
+		(at 480.06 300.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e9e18c8d-2d9a-4c3d-8ba8-02f8c624434f")
+		(property "Reference" "U4"
+			(at 482.2033 283.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PCF8574AP"
+			(at 482.2033 285.75 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
+			(at 480.06 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.nxp.com/docs/en/data-sheet/PCF8574_PCF8574A.pdf"
+			(at 480.06 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "8-bit I/O Expander, I2C interface, interrupt output, fixed address bits 0b0111xxx, DIP-16"
+			(at 480.06 300.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "fbef5042-45f9-4f51-b9c9-6ac5de156e12")
+		)
+		(pin "1"
+			(uuid "6003ec7d-509f-43a1-a6cf-995c60c0bbea")
+		)
+		(pin "14"
+			(uuid "02aefcf7-166a-4783-83b0-9741540e4eb5")
+		)
+		(pin "15"
+			(uuid "69ba5177-172b-416f-97ae-ca79a4da9847")
+		)
+		(pin "7"
+			(uuid "95115505-f344-44d0-a6a5-d608972a5a3f")
+		)
+		(pin "12"
+			(uuid "b977fcc0-c153-41aa-82fa-9e6306914efa")
+		)
+		(pin "10"
+			(uuid "6070e236-1e43-4403-80b8-7aaad093a12e")
+		)
+		(pin "16"
+			(uuid "6e336e32-2653-441a-8596-33dc228aced8")
+		)
+		(pin "4"
+			(uuid "677fe411-63f0-44b1-8606-b6e27dd51de2")
+		)
+		(pin "9"
+			(uuid "7fa233a2-0927-4ca8-b002-64c0f2952997")
+		)
+		(pin "11"
+			(uuid "1eb80bbe-d139-4391-baf9-229865e2f7c5")
+		)
+		(pin "13"
+			(uuid "f92eb9df-8c6d-4e4f-b2e1-15bd024f7b83")
+		)
+		(pin "8"
+			(uuid "197a4e03-40c5-496a-8d12-5b34ae5b40f1")
+		)
+		(pin "6"
+			(uuid "5c958085-c8de-4f88-8739-d1071d9d0503")
+		)
+		(pin "5"
+			(uuid "b64b11ba-b367-4e80-9db3-0136e13be852")
+		)
+		(pin "3"
+			(uuid "814e810f-66ea-4283-b2bc-5d1f06c3b79d")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -40104,85 +40656,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 467.36 320.04 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ec98a8e0-0311-478b-8073-7d8bbb08f554")
-		(property "Reference" "#PWR0146"
-			(at 461.01 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 463.55 320.0399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 467.36 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 467.36 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 467.36 320.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "043ee52a-5480-41bb-85a9-96cb3bb1d926")
-		)
-		(instances
-			(project "Custom Keyboard"
-				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0146")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 226.06 120.65 0)
 		(unit 1)
@@ -40274,7 +40747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed15048e-dc9d-467e-a7fb-a76577480cbc")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR018"
 			(at 125.73 254 0)
 			(hide yes)
 			(show_name no)
@@ -40334,7 +40807,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR036")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -40351,7 +40824,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "edc03608-58f6-4335-ba7a-cbed7d2ea302")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR08"
 			(at 224.79 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -40412,7 +40885,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR076")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -40430,7 +40903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f153a1b8-0066-412c-9e50-a8055e6f2fb9")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR020"
 			(at 176.53 254 0)
 			(hide yes)
 			(show_name no)
@@ -40490,7 +40963,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR056")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -40508,7 +40981,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f19907b7-4112-4387-a125-221ce0778126")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0153"
 			(at 354.33 382.27 0)
 			(hide yes)
 			(show_name no)
@@ -40568,7 +41041,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0131")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -40816,7 +41289,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f33eb380-bfef-4bcc-b0b9-4a6f4e53be74")
-		(property "Reference" "#PWR0151"
+		(property "Reference" "#PWR036"
 			(at 544.83 262.89 0)
 			(hide yes)
 			(show_name no)
@@ -40876,7 +41349,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0151")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -40894,7 +41367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f3ebdc40-68a7-48f5-8076-9b62e86e7adc")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR0140"
 			(at 74.93 364.49 0)
 			(hide yes)
 			(show_name no)
@@ -40954,7 +41427,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR019")
+					(reference "#PWR0140")
 					(unit 1)
 				)
 			)
@@ -40972,7 +41445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f44197a7-98a3-440a-a547-b4a3082cdae2")
-		(property "Reference" "RGB_LED48"
+		(property "Reference" "RGB_LED43"
 			(at 302.26 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41042,7 +41515,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED48")
+					(reference "RGB_LED43")
 					(unit 1)
 				)
 			)
@@ -41164,6 +41637,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 21.59 261.62 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f57dc486-dd82-41fd-bc13-ca208dad30d9")
+		(property "Reference" "#PWR037"
+			(at 15.24 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 17.78 261.6199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 21.59 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 21.59 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 21.59 261.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "68f7f461-a4ff-467f-ae6b-3f8633ea6a0d")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 46.99 273.05 180)
 		(unit 1)
@@ -41175,7 +41727,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5b52a46-eadc-404d-a18a-21e3c7d987e4")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR039"
 			(at 46.99 269.24 0)
 			(hide yes)
 			(show_name no)
@@ -41235,7 +41787,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR06")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -41253,7 +41805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5eccde7-fb21-4d53-945a-9041cfe55f72")
-		(property "Reference" "RGB_LED40"
+		(property "Reference" "RGB_LED41"
 			(at 251.46 310.7846 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41323,7 +41875,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED40")
+					(reference "RGB_LED41")
 					(unit 1)
 				)
 			)
@@ -41341,7 +41893,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5ef54dd-2ce7-4fdd-a7dc-7a82fb5d615f")
-		(property "Reference" "RGB_LED29"
+		(property "Reference" "RGB_LED25"
 			(at 187.96 284.4098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41411,7 +41963,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED29")
+					(reference "RGB_LED25")
 					(unit 1)
 				)
 			)
@@ -41624,7 +42176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6b84ba8-6335-4918-9ce0-315794569a86")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR057"
 			(at 100.33 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -41684,7 +42236,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR027")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -41919,7 +42471,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_8u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_7u"
 			(at 445.77 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -41973,7 +42525,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fab2028f-ec91-4d83-8c6c-4709cece952b")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR0102"
 			(at 113.03 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -42033,7 +42585,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR034")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -42281,7 +42833,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb7f6c0a-c048-43ac-8fd9-bdfc86b7d024")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR065"
 			(at 303.53 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -42341,7 +42893,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0106")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -42474,7 +43026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbd415bd-a436-46c4-8b1a-c99e1854935c")
-		(property "Reference" "RGB_LED51"
+		(property "Reference" "RGB_LED56"
 			(at 314.96 335.2098 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42544,7 +43096,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "RGB_LED51")
+					(reference "RGB_LED56")
 					(unit 1)
 				)
 			)
@@ -42642,7 +43194,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fca18ba7-1025-47e8-82e1-aa38bedb6c78")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR061"
 			(at 201.93 287.02 0)
 			(hide yes)
 			(show_name no)
@@ -42702,7 +43254,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR067")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -42720,7 +43272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcb5d9c9-b063-41f9-aaa5-bed4eff0c639")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR0130"
 			(at 151.13 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -42780,7 +43332,86 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR052")
+					(reference "#PWR0130")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 469.9 308.61 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd0c893a-c26f-4c24-bd64-9f9e34865246")
+		(property "Reference" "#PWR0157"
+			(at 463.55 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 466.09 308.6099 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 469.9 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 469.9 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 469.9 308.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5b6e6280-36b6-43c8-9987-27427bc2ce34")
+		)
+		(instances
+			(project "Custom Keyboard"
+				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -42798,7 +43429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fdcaa75a-567c-4825-8e7f-1cc14659db3d")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR095"
 			(at 341.63 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -42858,7 +43489,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR0124")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -42876,7 +43507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe4162da-8cfb-4ea4-931f-8f0e4f41edef")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR084"
 			(at 46.99 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -42936,7 +43567,7 @@
 		(instances
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "#PWR09")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)

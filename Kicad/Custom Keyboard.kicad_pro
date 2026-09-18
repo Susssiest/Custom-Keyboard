@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.6,
-          "width": 3.2
+          "height": 0.95,
+          "width": 0.8
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -568,9 +568,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "FABRICATION FILES/",
+      "plot": "../../../../../../Documents/GitHub/Custom-Keyboard/FABRICATION FILES/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../../../../Documents/GitHub/Custom-Keyboard/CAD/Custom Keyboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -735,7 +735,7 @@
         "uuid": "0112a49c-87b1-4505-bf98-43d79642e5f4"
       }
     ],
-    "used_designators": "LED1,MX1-5,F1,S1-6,RE1-2,TS1-2,RGB_LED1-70,ENC1-2,#FLG1-2,C1-2,SW1-97,U1-3,R1,D1-150,#PWR1-161,A1,J1",
+    "used_designators": "LED1,MX1-5,F1,S1-6,RE1-2,TS1-2,RGB_LED1-70,ENC1-2,#FLG1-2,C1-2,SW1-97,U1-4,R1-3,D1-150,#PWR1-161,A1,J1",
     "variants": []
   },
   "sheets": [
