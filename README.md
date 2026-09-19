@@ -1,5 +1,3 @@
 # Project Writeup
 
-This is a custom 60% keyboard equipped with per key rgb leds, rotary encoders, rocker switches, and an oled screen. I'm planning on using a rp2040 pi pico as the controller, and having an extra gpio extender for the 4 extra pins that don't fit on the pico.
-
-
+This is a custom 60% keyboard equipped with per key rgb leds, rotary encoders, rocker switches, and an oled screen. I'm planning on using a rp2040 pi pico as the controller, and having an extra gpio extender for the 4 extra pins that don't fit on the pico, as well as using a level shifter for the LEDs. LEDs will glow normally and then individually flash when key is pressed, I'm going to limit brightness in firmware as a safeguard, and one of the spst switches will toggle the LEDs on and off. I'm planning on one the rotary encoders for controlling volume, and another for controlling windows, I'm planning on configuring it to open the CMD+TAB menu and scroll to select and open windows. The other spst will just turn the keyboard on and off. The keyboards top layer, (R0), is a little different than a normal 60% keyboard. It's main difference is instead of having a full function key layout, the row starts with escape key, and ends with f4, and then has the screen, rotary encoders, and spsts.
