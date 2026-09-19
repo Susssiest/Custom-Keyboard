@@ -63,6 +63,7 @@ Replaced the MCP23017 with smaller one that uses scl instead of sck (PCF8574AP) 
 
 Had footprint for a SN74AH14 instead of a SN74AHCT125N, replaced, and also added a couple resistors for scl  and sda and rearranged capacitor for leds. I also added more silkscreens.
 
+<img width="486" height="493" alt="Screenshot 2026-09-19 at 11 01 39 AM" src="https://github.com/user-attachments/assets/d217f22a-47e2-4c7f-8421-8f570c99b846" />
 
 
 
