@@ -1,4 +1,4 @@
-// Copyright 2026 Andrew Posner
+// Copyright 2026 Susssiest
 // SPDX-License-Identifier: GPL-2.0-or-later
 //
 // hackpad66 -- 66-key ANSI 60% + F-row, Raspberry Pi Pico

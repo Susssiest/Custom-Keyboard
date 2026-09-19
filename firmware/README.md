@@ -5,7 +5,7 @@
 ## Files
 
 ```
-keyboards/posner/hackpad66/
+keyboards/hackpad66/
   keyboard.json                 matrix, pins, encoders, RGB layout, LAYOUT_66
   config.h                      I2C0 on GP0/GP1, OLED, RGB brightness cap
   mcuconf.h                     enables the RP2040 I2C0 peripheral
@@ -23,10 +23,10 @@ python3 -m pip install --user qmk
 qmk setup                       # clones qmk_firmware and installs the ARM toolchain
 
 # copy this board in
-cp -r keyboards/posner ~/qmk_firmware/keyboards/
+cp -r keyboards/hackpad66 ~/qmk_firmware/keyboards/
 
 # compile
-qmk compile -kb posner/hackpad66 -km default
+qmk compile -kb hackpad66 -km default
 ```
 
 Flashing: hold BOOTSEL while plugging in the Pico the first time, then drag the
