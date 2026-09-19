@@ -90,6 +90,11 @@ second line only if still too long. Idle shows the board name and active layer.
 **Rockers.** Left toggles RGB, right toggles the screen. Both are latching, so
 their position is read at boot and applied immediately rather than waited on.
 
+**RGB.** The board runs a moving rainbow across the keys (`cycle_left_right`)
+whenever it is powered and the left rocker is on. Fn+F2 cycles to other
+animations, Fn+F3/F4 adjust brightness, Fn+F1 toggles the LEDs. On the Fn layer
+encoder 1 is brightness and encoder 2 steps through animations.
+
 **RGB current safety.** 66 WS2812s at full white would draw roughly 3.9 A, but
 they are fed from Pico VBUS through its polyfuse on a 500 mA port. Brightness
 is capped at 110 in both `config.h` and `keyboard.json`. Do not raise it

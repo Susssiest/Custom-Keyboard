@@ -21,10 +21,12 @@
  * Full white would ask for ~3.9 A, so brightness is hard-capped here and
  * in keyboard.json. Do not raise this without external 5 V power. */
 #define RGB_MATRIX_MAXIMUM_BRIGHTNESS 110
-#define RGB_MATRIX_STARTUP_VAL        0    // boot dark, then ramp (see keymap.c)
-#define RGB_MATRIX_STARTUP_MODE       RGB_MATRIX_SOLID_COLOR
 #define RGB_MATRIX_SLEEP
 #define RGB_MATRIX_KEYPRESSES
+
+/* Default animation and colour live in keyboard.json (rgb_matrix.default):
+ * cycle_left_right, full saturation, val 0. Val starts at 0 so the board
+ * boots dark and fades up in keymap.c -- see the ramp section there. */
 
 /* Diodes are 1N4148 with cathodes on the rows: COL2ROW. */
 #define DEBOUNCE 5

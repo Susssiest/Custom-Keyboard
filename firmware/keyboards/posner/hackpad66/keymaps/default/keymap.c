@@ -342,9 +342,13 @@ bool oled_task_user(void) {
 //  Boot: bring the LEDs up gently
 // ===========================================================================
 //
+// The board runs a moving rainbow (cycle_left_right) whenever it is on -- that
+// is set as the default animation in keyboard.json.
+//
 // 1000 uF on the 5 V rail means a hefty inrush the moment USB is plugged in,
-// and the Pico is enumerating at the same time. Start dark, wait for
-// enumeration to settle, then fade in.
+// and the Pico is enumerating at the same time. So value starts at 0 and is
+// faded up to RGB_RAMP_TARGET here once enumeration has settled. The cycle
+// animation drives hue by itself; this only touches brightness.
 
 #define RGB_RAMP_DELAY_MS 600
 #define RGB_RAMP_STEP_MS   12

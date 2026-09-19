@@ -69,10 +69,10 @@
   "rgb_matrix": {
     "driver": "ws2812",
     "default": {
-      "animation": "solid_color",
+      "animation": "cycle_left_right",
       "hue": 0,
-      "sat": 0,
-      "val": 90
+      "sat": 255,
+      "val": 0
     },
     "max_brightness": 110,
     "sleep": true,
