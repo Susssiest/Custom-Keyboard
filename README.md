@@ -1,5 +1,7 @@
 # Project Writeup
 
+<img width="1008" height="637" alt="Screenshot 2026-09-19 at 10 59 16 AM" src="https://github.com/user-attachments/assets/b4cfb4ea-b78d-4952-b10f-fcfceef68a3b" />
+
 ## Overview
 
 This is a custom 60% keyboard equipped with per key rgb leds, rotary encoders, rocker switches, and an oled screen. My orginal idea was to just have leds, rotary encoders, and spst switches, but I quickly realized that I needed to add many additional components to get it to work like I intended. The finished keyboard will have many custom features:
