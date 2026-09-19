@@ -69,6 +69,8 @@ Had footprint for a SN74AH14 instead of a SN74AHCT125N, replaced, and also added
  
  Combined C0 with other columns so that I don't have one column on the PCF8574AP, and added bambu labs logo silkscreen and my very questionable signature.
 
+<img width="1008" height="637" alt="Screenshot 2026-09-19 at 10 59 16 AM" src="https://github.com/user-attachments/assets/762b2791-39d6-427f-b16d-070c5529cb09" />
+
 **Total time spent: 2 hours**
  
 
