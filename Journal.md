@@ -44,4 +44,11 @@ Replaced the MCP23017 with smaller one that uses scl instead of sck (PCF8574AP) 
 
 <img width="856" height="387" alt="PCB" src="https://github.com/user-attachments/assets/f6fa596e-02b1-4d0b-ae9a-0537ac25ce44" />
 
+**Had wrong level shifter footprint, changed**
+
+Had footprint for a SN74AH14 instead of a SN74AHCT125N, replaced, and also added a bunch of resistors and capacitors and added more silkscreens. This whole process took 2 hours.
+
+
+
+
 
