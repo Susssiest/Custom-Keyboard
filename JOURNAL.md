@@ -35,7 +35,7 @@ I made my case around the imported 3D model of the pcb. I made the plate and top
 
 ## Adding silkscreen
 
-I added an explosion svg lol.
+I added an explosion svg lol. For some reason the svg was imported in fully colored in, so it took a little to remove background.
 
 <img width="896" height="455" alt="Screenshot 2026-08-09 at 4 57 58 PM" src="https://github.com/user-attachments/assets/fd9c340d-e958-4f96-ae82-24cc13d89c62" />
 
@@ -72,6 +72,19 @@ Had footprint for a SN74AH14 instead of a SN74AHCT125N, replaced, and also added
 <img width="1008" height="637" alt="Screenshot 2026-09-19 at 10 59 16 AM" src="https://github.com/user-attachments/assets/762b2791-39d6-427f-b16d-070c5529cb09" />
 
 **Total time spent: 2 hours**
- 
 
+## Finalizing repo.
 
+Replaced all outdated files, made readme, formatted journal. For some reason my schematic reverted to previous version and I needed to redo capacitors.
+
+<img width="1470" height="802" alt="Screenshot 2026-09-19 at 5 32 04 PM" src="https://github.com/user-attachments/assets/677c727a-f89f-4293-b275-a848010b893a" />
+
+**Total time spent: 1 hour**
+
+## Finalized code with qmk.
+
+Talked a bit with perplexity and final code is now finished, I will tweak a little if I run into problems when I have the physical keyboard.
+
+<img width="832" height="736" alt="Screenshot 2026-09-19 at 5 39 36 PM" src="https://github.com/user-attachments/assets/7ea436ed-005a-44aa-b003-799fd8b19a6e" />
+
+**Total time spent: 1 hour**
