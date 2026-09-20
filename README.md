@@ -17,9 +17,13 @@ This is a custom 60% keyboard equipped with per key rgb leds, rotary encoders, r
 
 The keyboard's top layer, (R0), is a little different than a normal 60% keyboard. It's main difference is instead of having a full function key layout, the row starts with escape key, and ends with f4, and then has the screen, rotary encoders, and spsts. I will solder on the hot swap sockets to the pcb, and use cherry mx key switches. The matrix will have diodes to right of each key, for each key. 
 
+<img width="511.5" height="237.5" alt="Screenshot 2026-09-19 at 5 26 41 PM" src="https://github.com/user-attachments/assets/54d9110c-0149-491b-b2ae-6c71396a2815" />
+
 ## Controller and GPIO
 
 I'm planning on using a rp2040 pi pico as the controller, and having an extra gpio extender for the 4 extra pins that don't fit on the pico. The pico will be connected to the full matrix, and link to the led data and rotary encoder a and b signals. The gpio extender will have the two rotary encoder buttons connected to it, snd the two spsts. The PCF8574AP will have a 0.1uf capacitor next to it to protect the 3v3 pin.
+
+<img width="434" height="342.5" alt="Screenshot 2026-09-19 at 5 28 19 PM" src="https://github.com/user-attachments/assets/0fbd4cb0-e746-4997-ac84-0c74dbdc96c4" />
 
 ## LEDs
 
