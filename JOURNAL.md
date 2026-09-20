@@ -88,3 +88,9 @@ Talked a bit with perplexity and final code is now finished, I will tweak a litt
 <img width="832" height="736" alt="Screenshot 2026-09-19 at 5 39 36 PM" src="https://github.com/user-attachments/assets/7ea436ed-005a-44aa-b003-799fd8b19a6e" />
 
 **Total time spent: 1 hour**
+
+## Replaced wrong KCD1 THT footrpint
+
+Made a custom footprint for the kcd1, I'm going to solder the pins onto the pcb, but I had a wrong footprint that made small pin holes, and I had to make my own in footprint editor and implement it into the pcb.
+
+**Total time spent: 30 minutes**
