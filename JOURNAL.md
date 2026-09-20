@@ -81,4 +81,10 @@ Replaced all outdated files, made readme, formatted journal. For some reason my 
 
 **Total time spent: 1 hour**
 
+## Finalized code with qmk.
 
+Talked a bit with perplexity and final code is now finished, I will tweak a little if I run into problems when I have the physical keyboard.
+
+<img width="832" height="736" alt="Screenshot 2026-09-19 at 5 39 36 PM" src="https://github.com/user-attachments/assets/7ea436ed-005a-44aa-b003-799fd8b19a6e" />
+
+**Total time spent: 1 hour**
