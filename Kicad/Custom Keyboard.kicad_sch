@@ -4582,12 +4582,6 @@
 		(uuid "dbc46935-df8a-4909-a0cf-0c154dda3e58")
 	)
 	(junction
-		(at 57.15 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dd87e7e6-1bd8-4f44-9b47-6b817ebf68c0")
-	)
-	(junction
 		(at 69.85 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4958,6 +4952,16 @@
 			(type default)
 		)
 		(uuid "0b3ae4ef-643e-45ef-a3ea-8fdb05775ef9")
+	)
+	(wire
+		(pts
+			(xy 31.75 234.95) (xy 33.02 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b54e9e1-bd51-4ea9-8460-da268c026496")
 	)
 	(wire
 		(pts
@@ -5841,16 +5845,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 234.95) (xy 35.56 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "388db042-b0aa-41a2-ae98-5794b0b3c1e8")
-	)
-	(wire
-		(pts
 			(xy 118.11 93.98) (xy 120.65 93.98)
 		)
 		(stroke
@@ -6201,16 +6195,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 247.65) (xy 35.56 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "457da034-c35a-4cb5-98b1-fa8e00690b40")
-	)
-	(wire
-		(pts
 			(xy 209.55 50.8) (xy 209.55 93.98)
 		)
 		(stroke
@@ -6401,7 +6385,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 66.04) (xy 57.15 93.98)
+			(xy 57.15 50.8) (xy 57.15 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7248,6 +7232,16 @@
 			(type default)
 		)
 		(uuid "73628960-10d8-44d6-90b3-3a937911ee83")
+	)
+	(wire
+		(pts
+			(xy 40.64 247.65) (xy 41.91 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73b0619c-2481-48d5-959f-963648d674e0")
 	)
 	(wire
 		(pts
@@ -8781,6 +8775,16 @@
 	)
 	(wire
 		(pts
+			(xy 67.31 238.76) (xy 68.58 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b5cdc9aa-9f9d-46cd-ba02-2118efe0e9a8")
+	)
+	(wire
+		(pts
 			(xy 311.15 160.02) (xy 311.15 170.18)
 		)
 		(stroke
@@ -9481,16 +9485,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 50.8) (xy 57.15 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d80697c5-8643-46c8-90dd-261cbf745ca0")
-	)
-	(wire
-		(pts
 			(xy 209.55 93.98) (xy 209.55 119.38)
 		)
 		(stroke
@@ -9588,16 +9582,6 @@
 			(type default)
 		)
 		(uuid "dd403962-c2e0-4ea1-a964-8c010c02625d")
-	)
-	(wire
-		(pts
-			(xy 46.99 234.95) (xy 46.99 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddcb8b4f-bba9-45d1-9094-f915abbdadad")
 	)
 	(wire
 		(pts
@@ -9708,6 +9692,16 @@
 			(type default)
 		)
 		(uuid "e146ca85-7548-49b9-b5c5-022aafd11e4a")
+	)
+	(wire
+		(pts
+			(xy 40.64 234.95) (xy 41.91 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e15e794b-8f94-4d9f-8ca6-b3b166cdc322")
 	)
 	(wire
 		(pts
@@ -10018,16 +10012,6 @@
 			(type default)
 		)
 		(uuid "ecfd218e-a4a0-4039-a96b-8b9375dc8304")
-	)
-	(wire
-		(pts
-			(xy 35.56 234.95) (xy 46.99 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed0d96c8-d8e8-4764-94da-9015079120a5")
 	)
 	(wire
 		(pts
@@ -10431,16 +10415,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 238.76) (xy 68.58 238.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdbe4e54-ac31-448c-979e-e67e7494d935")
-	)
-	(wire
-		(pts
 			(xy 387.35 93.98) (xy 387.35 119.38)
 		)
 		(stroke
@@ -10599,6 +10573,16 @@
 		)
 		(uuid "202e936f-07e4-4497-8936-823020e03c2a")
 	)
+	(label "RGB_Out"
+		(at 31.75 234.95 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "28b38e10-9116-4955-923c-ad64808d2d33")
+	)
 	(label "SPST2"
 		(at 492.76 298.45 0)
 		(effects
@@ -10698,6 +10682,16 @@
 			(justify left bottom)
 		)
 		(uuid "425f4532-c54a-4ca7-83a1-7f2516bba342")
+	)
+	(label "Net-(RGB_LED1-DIN)"
+		(at 41.91 234.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "444c8c7b-1dae-43f8-925a-3caf5eef27d2")
 	)
 	(label "SDA"
 		(at 455.93 285.75 0)
@@ -11049,6 +11043,16 @@
 		)
 		(uuid "bfec7b9c-89a6-45a0-8278-1479c82be130")
 	)
+	(label "RGB_Out"
+		(at 40.64 247.65 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c03d257f-5cd9-4315-8836-924fa7d92d89")
+	)
 	(label "R5"
 		(at 567.69 297.18 0)
 		(effects
@@ -11128,6 +11132,16 @@
 			(justify left bottom)
 		)
 		(uuid "d72ad368-c057-4f7c-894e-de8a547200d1")
+	)
+	(label "Net-(RGB_LED1-DIN)"
+		(at 67.31 238.76 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d72b2687-3536-47b5-871c-8650fd99230e")
 	)
 	(label "RGB Data"
 		(at 40.64 245.11 180)
@@ -11440,7 +11454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 189.23 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -11561,86 +11575,6 @@
 			(project "Custom Keyboard"
 				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
 					(reference "#PWR066")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 62.23 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "01ba55c6-aaf6-4dc1-bcb1-d1574526ceb1")
-		(property "Reference" "SW1"
-			(at 62.23 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 62.23 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
-			(at 62.23 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 62.23 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1df2848c-f342-430e-8c85-a0817054adb9")
-		)
-		(pin "2"
-			(uuid "a6ffc2c3-e19a-424c-8594-1053031b4413")
-		)
-		(instances
-			(project "Custom Keyboard"
-				(path "/0112a49c-87b1-4505-bf98-43d79642e5f4"
-					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -13143,7 +13077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 87.63 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -13380,7 +13314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 163.83 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -13538,7 +13472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 62.23 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -13618,7 +13552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Terminal_Blocks_Sockets:Terminal_4.8mm"
+		(property "Footprint" "Button_Switch_Keyboard:KCD1_THT"
 			(at 347.98 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -13939,7 +13873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 113.03 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -14415,7 +14349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 252.73 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -14859,7 +14793,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 138.43 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -15054,7 +14988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 290.83 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -15486,7 +15420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 176.53 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -15742,7 +15676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 316.23 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -16181,7 +16115,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 214.63 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -16573,7 +16507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 341.63 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -16653,7 +16587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 151.13 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -16733,7 +16667,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 354.33 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -17996,7 +17930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 341.63 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -18841,7 +18775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 392.43 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -19165,7 +19099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 367.03 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -19323,7 +19257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 265.43 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -19752,7 +19686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 265.43 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -20296,7 +20230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 189.23 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -20979,7 +20913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 62.23 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -21535,7 +21469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 290.83 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -22361,7 +22295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 189.23 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -23083,7 +23017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 392.43 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -23356,7 +23290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 328.93 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -23602,7 +23536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 278.13 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -24478,7 +24412,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 100.33 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -24907,7 +24841,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 50.8 238.76 90)
+		(at 36.83 234.95 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24918,7 +24852,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c659aa4-3718-4c62-b4b3-0246239cf88e")
 		(property "Reference" "R1"
-			(at 50.8 232.41 90)
+			(at 36.83 228.6 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24928,7 +24862,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 50.8 234.95 90)
+			(at 36.83 231.14 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24938,7 +24872,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 50.8 240.538 90)
+			(at 36.83 236.728 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24949,7 +24883,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 238.76 0)
+			(at 36.83 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24960,7 +24894,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 50.8 238.76 0)
+			(at 36.83 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24971,7 +24905,7 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 50.8 238.76 0)
+			(at 36.83 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25299,7 +25233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 62.23 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -26989,7 +26923,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 214.63 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -27547,7 +27481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 367.03 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -27742,7 +27676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 303.53 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -27937,7 +27871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 341.63 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -28105,7 +28039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 87.63 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -28185,7 +28119,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 367.03 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -28536,7 +28470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 316.23 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -28695,7 +28629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 138.43 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -28941,7 +28875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 125.73 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -29255,7 +29189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 163.83 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -29413,7 +29347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 62.23 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -29690,7 +29624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 138.43 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -30041,7 +29975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 265.43 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -31807,7 +31741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 138.43 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -31887,7 +31821,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 227.33 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -32475,7 +32409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 163.83 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -34730,7 +34664,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 113.03 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -35283,7 +35217,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Terminal_Blocks_Sockets:Terminal_4.8mm"
+		(property "Footprint" "Button_Switch_Keyboard:KCD1_THT"
 			(at 377.19 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -35530,7 +35464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 214.63 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -35803,7 +35737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 240.03 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -35998,7 +35932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 240.03 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -36078,7 +36012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 392.43 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -36236,7 +36170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 392.43 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -36316,7 +36250,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 113.03 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -36986,7 +36920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 240.03 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -37310,7 +37244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 62.23 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -37698,7 +37632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 113.03 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -38014,7 +37948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 113.03 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -38250,7 +38184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 290.83 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -38409,7 +38343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 341.63 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -38567,7 +38501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 87.63 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -39785,7 +39719,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 316.23 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -39953,7 +39887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 316.23 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -41268,7 +41202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 392.43 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -41436,7 +41370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 240.03 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -42865,7 +42799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 163.83 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -43023,7 +42957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 201.93 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -43883,7 +43817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
+		(property "Footprint" "Button_Switch_Keyboard:MX_Hotswap"
 			(at 189.23 114.3 0)
 			(hide yes)
 			(show_name no)
