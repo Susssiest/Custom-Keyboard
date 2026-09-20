@@ -41,4 +41,7 @@ Already mentioned above, one of the spst switches will toggle the LEDs on and of
 
 The oled will show a live display of what keys are being pressed, but I may also just put a simple animation on it or logo. There are two 4.7k resistors to protect sda and scl from 3v3.
 
+# BOM
+
+<img width="1083" height="274" alt="Screenshot 2026-09-19 at 5 29 30 PM" src="https://github.com/user-attachments/assets/cc28ee22-2b15-4e14-9c7c-1f72234bb463" />
 
