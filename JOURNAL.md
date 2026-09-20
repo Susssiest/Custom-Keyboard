@@ -72,6 +72,11 @@ Had footprint for a SN74AH14 instead of a SN74AHCT125N, replaced, and also added
 <img width="1008" height="637" alt="Screenshot 2026-09-19 at 10 59 16 AM" src="https://github.com/user-attachments/assets/762b2791-39d6-427f-b16d-070c5529cb09" />
 
 **Total time spent: 2 hours**
- 
+
+## Finalizing repo.
+
+Replaced all outdated files, made readme, formatted journal.
+
+**Total time spent: 1 hour**
 
 
