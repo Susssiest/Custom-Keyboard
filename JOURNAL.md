@@ -75,7 +75,7 @@ Had footprint for a SN74AH14 instead of a SN74AHCT125N, replaced, and also added
 
 ## Finalizing repo.
 
-Replaced all outdated files, made readme, formatted journal.
+Replaced all outdated files, made readme, formatted journal. For some reason my schematic reverted to previous version and I needed to redo capacitors.
 
 <img width="1470" height="802" alt="Screenshot 2026-09-19 at 5 32 04 PM" src="https://github.com/user-attachments/assets/677c727a-f89f-4293-b275-a848010b893a" />
 
