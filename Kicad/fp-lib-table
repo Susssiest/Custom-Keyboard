@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Level Shifter") (type "KiCad") (uri "${KIPRJMOD}/Level Shifter.pretty") (options "") (descr ""))
+)
