@@ -1,4 +1,4 @@
-# Custom-Keyboard Project
+p.# Custom-Keyboard Project
 
 
 ## Schematics
@@ -88,3 +88,20 @@ Talked a bit with perplexity and final code is now finished, I will tweak a litt
 <img width="832" height="736" alt="Screenshot 2026-09-19 at 5 39 36 PM" src="https://github.com/user-attachments/assets/7ea436ed-005a-44aa-b003-799fd8b19a6e" />
 
 **Total time spent: 1 hour**
+
+## Replaced wrong KCD1 THT footrpint
+
+Made a custom footprint for the kcd1, I'm going to solder the pins onto the pcb, but I had a wrong footprint that made small pin holes, and I had to make my own in footprint editor and implement it into the pcb.
+
+<img width="1470" height="898" alt="Screenshot 2026-09-21 at 7 50 41 AM" src="https://github.com/user-attachments/assets/f8b6dabb-c7a2-45ea-a5d6-5d1731df7c67" />
+
+**Total time spent: 30 minutes**
+
+## Added 3d models and fixed footprints
+
+Added all 3D models to board, using step files from grabcad and printables. For some reason some of my footprints were deleted, or switched to other footprints, so I fixed that as well, I also changed the switch's pad orientation because they were a little off centered, and fixed the holes for the hotswap extender thingies because the holes were also a little off centered and they would have had to be sqeezed and potentioally broken to get them to fit. I am pretty confident that I am done with everything.
+
+<img width="1044" height="691" alt="Screenshot 2026-09-20 at 4 58 46 PM" src="https://github.com/user-attachments/assets/87282e24-66ae-47e1-be3d-f7f446f8af3e" />
+
+**Total time spent: 3 hours 30 minutes**
+
