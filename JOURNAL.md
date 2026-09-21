@@ -1,4 +1,4 @@
-p.# Custom-Keyboard Project
+# Custom-Keyboard Project
 
 
 ## Schematics
@@ -93,7 +93,7 @@ Talked a bit with perplexity and final code is now finished, I will tweak a litt
 
 Made a custom footprint for the kcd1, I'm going to solder the pins onto the pcb, but I had a wrong footprint that made small pin holes, and I had to make my own in footprint editor and implement it into the pcb.
 
-<img width="1470" height="898" alt="Screenshot 2026-09-21 at 7 50 41 AM" src="https://github.com/user-attachments/assets/f8b6dabb-c7a2-45ea-a5d6-5d1731df7c67" />
+<img width="1114" height="722" alt="Screenshot 2026-09-21 at 11 41 45 AM" src="https://github.com/user-attachments/assets/9a26cdbf-b36f-4ed3-8432-75b37c255c06" />
 
 **Total time spent: 30 minutes**
 
@@ -105,3 +105,9 @@ Added all 3D models to board, using step files from grabcad and printables. For 
 
 **Total time spent: 3 hours 30 minutes**
 
+## Updated level shifter footprint.
+Replaced old footprint from default pin header to actual 3d model of the SN74AHCT125N.
+
+<img width="442" height="339" alt="Screenshot 2026-09-21 at 1 20 00 PM" src="https://github.com/user-attachments/assets/a8698cc3-5b43-4196-8f09-04659235da44" />
+
+**Total time spent: 30 minutes**
