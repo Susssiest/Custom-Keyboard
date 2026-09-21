@@ -93,7 +93,7 @@ Talked a bit with perplexity and final code is now finished, I will tweak a litt
 
 Made a custom footprint for the kcd1, I'm going to solder the pins onto the pcb, but I had a wrong footprint that made small pin holes, and I had to make my own in footprint editor and implement it into the pcb.
 
-<img width="1044" height="691" alt="Screenshot 2026-09-20 at 4 58 46 PM" src="https://github.com/user-attachments/assets/99f7db36-96ac-4a09-8b17-dd3174878f58" />
+<img width="1114" height="722" alt="Screenshot 2026-09-21 at 11 41 45 AM" src="https://github.com/user-attachments/assets/9a26cdbf-b36f-4ed3-8432-75b37c255c06" />
 
 **Total time spent: 30 minutes**
 
