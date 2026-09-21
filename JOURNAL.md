@@ -1,4 +1,4 @@
-# Custom-Keyboard Project
+.# Custom-Keyboard Project
 
 
 ## Schematics
@@ -95,7 +95,9 @@ Made a custom footprint for the kcd1, I'm going to solder the pins onto the pcb,
 
 **Total time spent: 30 minutes**
 
-Added all 3D models to board, using step files from grabcad and printables. For some reason some of my footprints were deleted, or switched to other footprints, so I fixed that as well, I also changed the switch's pad orientation because they were a little off centered, and fixed the holes for the hotswap extender thingies because the holes were also a little off centered and they would have had to be sqeezed and potentioally broken to get them to fit.
+## Added 3d models and fixed footprints
+
+Added all 3D models to board, using step files from grabcad and printables. For some reason some of my footprints were deleted, or switched to other footprints, so I fixed that as well, I also changed the switch's pad orientation because they were a little off centered, and fixed the holes for the hotswap extender thingies because the holes were also a little off centered and they would have had to be sqeezed and potentioally broken to get them to fit. I am pretty confident that I am done with everything.
 
 **Total time spent: 3 hours 30 minutes**
 
