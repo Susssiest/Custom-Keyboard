@@ -94,3 +94,8 @@ Talked a bit with perplexity and final code is now finished, I will tweak a litt
 Made a custom footprint for the kcd1, I'm going to solder the pins onto the pcb, but I had a wrong footprint that made small pin holes, and I had to make my own in footprint editor and implement it into the pcb.
 
 **Total time spent: 30 minutes**
+
+Added all 3D models to board, using step files from grabcad and printables. For some reason some of my footprints were deleted, or switched to other footprints, so I fixed that as well, I also changed the switch's pad orientation because they were a little off centered, and fixed the holes for the hotswap extender thingies because the holes were also a little off centered and they would have had to be sqeezed and potentioally broken to get them to fit.
+
+**Total time spent: 3 hours 30 minutes**
+
