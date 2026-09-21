@@ -1,4 +1,4 @@
-p.# Custom-Keyboard Project
+# Custom-Keyboard Project
 
 
 ## Schematics
@@ -105,3 +105,9 @@ Added all 3D models to board, using step files from grabcad and printables. For 
 
 **Total time spent: 3 hours 30 minutes**
 
+## Updated level shifter footprint.
+Replaced old footprint from default pin header to actual 3d model of the SN74AHCT125N.
+
+<img width="442" height="339" alt="Screenshot 2026-09-21 at 1 20 00 PM" src="https://github.com/user-attachments/assets/a8698cc3-5b43-4196-8f09-04659235da44" />
+
+**Total time spent: 30 minutes**
