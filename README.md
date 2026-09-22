@@ -2,7 +2,7 @@
 
 <img width="1021" height="563" alt="Screenshot 2026-09-22 at 10 17 56 AM" src="https://github.com/user-attachments/assets/80a47139-2eba-4994-b0b8-f24106a43334" />
 
-## Overview
+## Summary
 
 This is a custom 60% keyboard equipped with per key rgb leds, rotary encoders, rocker switches, and an oled screen. My orginal idea was to just have leds, rotary encoders, and spst switches, but I quickly realized that I needed to add many additional components to get it to work like I intended. The finished keyboard will have many custom features:
 
@@ -12,6 +12,8 @@ This is a custom 60% keyboard equipped with per key rgb leds, rotary encoders, r
 - I may change function keys to isntead of working like default function keys, open apps, like kicad or fusion.
 - Will have Kaihl hot swap sockets.
 - OLED will display simple live keylogger.
+
+# Keyboard Overview
 
 ## Keyboard Layout
 
@@ -49,7 +51,11 @@ The oled will show a live display of what keys are being pressed, but I may also
 
 <img width="331" height="216" alt="Screenshot 2026-09-22 at 10 21 35 AM" src="https://github.com/user-attachments/assets/9de5b64d-0b45-49fa-9b46-07e3fba4cc5e" />
 
-# BOM
+# Cad Assembly
+
+
+
+## BOM
 
 | Item | Part Number | Description | Quantity (Part) | Notes | Price | Total |
 |---|---|---|---:|---|---:|---:|
