@@ -29,17 +29,25 @@ I'm planning on using a rp2040 pi pico as the controller, and having an extra gp
 
 LEDs will glow normally and then individually flash when key is pressed, I'm going to limit brightness in firmware as a safeguard. I will have a level shifter for the rgb data to convert the 3.3v data signal to 5v so the leds dont flicker or potentially not recieve commands. I will have a 1000uf capacitor on 5V roght before it reaches the first led. The level shifter will have a 330r resistor before the first led as well. The level shifter will have a 0.1 uf capacitor before 5V to protect the vcc pin.
 
+<img width="1358" height="556" alt="Screenshot 2026-09-22 at 10 20 40 AM" src="https://github.com/user-attachments/assets/f52edb4c-c2e1-4c65-aa93-13860c07f318" />
+
 ## Rotary Encoders
 
 I'm planning on one the rotary encoders for controlling volume, and another for controlling windows, I'm planning on configuring it to open the CMD+TAB menu and scroll to select and open windows, and then once the rotary encoder has stopped turnign for say, 1 second, the window will open snd the menu will close.
+
+<img width="489" height="276" alt="Screenshot 2026-09-22 at 10 21 06 AM" src="https://github.com/user-attachments/assets/d1f2c5f1-1f84-4533-90c7-36db40073875" />
 
 ## SPST Switches
 
 Already mentioned above, one of the spst switches will toggle the LEDs on and off, the other spst will just turn the keyboard on and off.
 
+<img width="386" height="261" alt="Screenshot 2026-09-22 at 10 21 21 AM" src="https://github.com/user-attachments/assets/eade31aa-bac5-4100-b02e-08635f4979c1" />
+
 ## OLED
 
 The oled will show a live display of what keys are being pressed, but I may also just put a simple animation on it or logo. There are two 4.7k resistors to protect sda and scl from 3v3.
+
+<img width="331" height="216" alt="Screenshot 2026-09-22 at 10 21 35 AM" src="https://github.com/user-attachments/assets/9de5b64d-0b45-49fa-9b46-07e3fba4cc5e" />
 
 # BOM
 
