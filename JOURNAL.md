@@ -111,3 +111,11 @@ Replaced old footprint from default pin header to actual 3d model of the SN74AHC
 <img width="442" height="339" alt="Screenshot 2026-09-21 at 1 20 00 PM" src="https://github.com/user-attachments/assets/a8698cc3-5b43-4196-8f09-04659235da44" />
 
 **Total time spent: 30 minutes**
+
+## Added screw mounting holes.
+
+Found footprint and placed mounting holes in the four corners of the pcb. Needed to do a little rerouting, but did it pretty easily.
+
+<img width="437" height="408" alt="Screenshot 2026-09-22 at 11 10 30 AM" src="https://github.com/user-attachments/assets/8b14bca0-b923-4020-b80c-80654a2d5899" />
+
+**Total time spent: 20 minutes**
