@@ -29,7 +29,7 @@ I'm planning on using a rp2040 pi pico as the controller, and having an extra gp
 
 LEDs will glow normally and then individually flash when key is pressed, I'm going to limit brightness in firmware as a safeguard. I will have a level shifter for the rgb data to convert the 3.3v data signal to 5v so the leds dont flicker or potentially not recieve commands. I will have a 1000uf capacitor on 5V roght before it reaches the first led. The level shifter will have a 330r resistor before the first led as well. The level shifter will have a 0.1 uf capacitor before 5V to protect the vcc pin.
 
-<img width="1358" height="556" alt="Screenshot 2026-09-22 at 10 20 40 AM" src="https://github.com/user-attachments/assets/f52edb4c-c2e1-4c65-aa93-13860c07f318" />
+<img width="679" height="278" alt="Screenshot 2026-09-22 at 10 20 40 AM" src="https://github.com/user-attachments/assets/f52edb4c-c2e1-4c65-aa93-13860c07f318" />
 
 ## Rotary Encoders
 
