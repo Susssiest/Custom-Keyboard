@@ -6,7 +6,7 @@
 
 This is a custom 60% keyboard equipped with per key rgb leds, rotary encoders, rocker switches, and an oled screen. My orginal idea was to just have leds, rotary encoders, and spst switches, but I quickly realized that I needed to add many additional components to get it to work like I intended. The finished keyboard will have many custom features:
 
-- Leds will uniformly glow, and whn is a key ismpressed the led under it will flash brighter than all the other leds for a few seconds before fading.
+- Leds will uniformly glow, and when is a key ismpressed the led under it will flash brighter than all the other leds for a few seconds before fading.
 - Rotary encoders will control screen brightness and window switching.
 - Spsts will turn leds on and off, and full keyboard on and off.
 - I may change function keys to isntead of working like default function keys, open apps, like kicad or fusion.
