@@ -1,6 +1,6 @@
 # Project Writeup
 
-<img width="1021" height="563" alt="Screenshot 2026-09-22 at 10 17 56 AM" src="https://github.com/user-attachments/assets/80a47139-2eba-4994-b0b8-f24106a43334" />
+<img width="1003" height="580" alt="Screenshot 2026-09-22 at 11 12 53 AM" src="https://github.com/user-attachments/assets/8a682814-ff20-414b-83a9-77e84af928c8" />
 
 ## Summary
 
