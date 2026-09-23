@@ -57,27 +57,27 @@ The oled will show a live display of what keys are being pressed, but I may also
 
 https://github.com/user-attachments/assets/58d7ddcc-f08c-4a4f-aa4c-c66ab165dcce
 
-## BOM
+# Prices
 
 ## Keyboard Parts BOM
 
-| Item | Part Number | Description | Quantity | Notes | Price | Total |
-| ---: | --- | --- | ---: | --- | ---: | ---: |
-| 1 | SC0915 | Rasberry Pi Pico | 1 | Micro controller | $2.27 | $64.19 |
-| 2 | MCP23017 | GPIO Extender | 1 | Need one. | $3.23 | — |
-| 3 | KY040 | Rotary Encoder | 2 | — | $2.19 | — |
-| 4 | SSD1306 | 0.91 in Screen | 1 | — | $1.09 | — |
-| 5 | SK6812MINI-E | SK6812 MINI-E Reverse Mount | 66 | Specifically need reverse mount. | $6.04 | — |
-| 6 | CPG151101S11 | Kailh Hot Swap Sockets | 66 | Type 1, 70 count. | $8.19 | — |
-| 7 | 1N4148 | Diodes | 66 | — | $2.11 | — |
-| 8 | N/A | Ceramic Capacitors | 2 (0.1 µF) | — | $2.48 | — |
-| 9 | N/A | Stabilizers | 6 | Need 2u, 7u. | $6.30 | — |
-| 10 | MX1A | Cherry MX Switches | ~65 | Brown key switches. | $19.10 | — |
-| 11 | N/A | Shine-through keycaps | ~65 | — | $11.18 | — |
-| 12 | KCD1-101 | Rocker Switch | 2 | Have already | N/A | — |
-| 13 | N/A | Resistors | 3 (330 Ω and 470 kΩ) | Have already | N/A | — |
-| 14 | Level Shifter | SN74AHCT125N | 1 | Have already. | N/A | — |
-| 15 | N/A | Metal Film Capacitor | 1 (1000 µF) | — | N/A | — |
+| Item | Part Number | Description | Quantity | Notes | Price |
+|---:|---|---|---:|---|---:|
+| 1 | SC0915 | Raspberry Pi Pico | 1 | Microcontroller | $2.27 |
+| 2 | MCP23017 | GPIO Extender | 1 | Need one. | $3.23 |
+| 3 | KY040 | Rotary Encoder | 2 | — | $2.19 |
+| 4 | SSD1306 | 0.91 in Screen | 1 | — | $1.09 |
+| 5 | SK6812MINI-E | SK6812 MINI-E Reverse Mount | 66 | Specifically need reverse mount. | $6.04 |
+| 6 | CPG151101S11 | Kailh Hot-Swap Sockets | 66 | Type 1, 70 count. | $8.19 |
+| 7 | 1N4148 | Diodes | 66 | — | $2.11 |
+| 8 | N/A | Ceramic Capacitors | 2 (0.1 µF) | — | $2.48 |
+| 9 | N/A | Stabilizers | 6 | Need 2u and 7u. | $6.30 |
+| 10 | MX1A | Cherry MX Switches | ~65 | Key switches; brown. | $19.10 |
+| 11 | N/A | Shine-Through Keycaps | ~65 | — | $11.18 |
+| 12 | KCD1-101 | Rocker Switch | 2 | Have already. | N/A |
+| 13 | N/A | Resistors | 3 (330 Ω and 470 kΩ) | Have already. | N/A |
+| 14 | Level Shifter | SN74AHCT125N | 1 | Have already. | N/A |
+| 15 | N/A | Metal Film Capacitor | 1 (1000 µF) | — | N/A |
 
 **Listed Total:** $64.
 
