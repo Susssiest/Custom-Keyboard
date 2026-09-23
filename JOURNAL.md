@@ -135,3 +135,13 @@ Changed spacebar footprint and updated routing along it. Also updated BOM.
 <img width="739" height="460" alt="Screenshot 2026-09-22 at 7 05 12 PM" src="https://github.com/user-attachments/assets/bcd8c5b6-282b-4282-9a75-41cdffc72812" />
 
 **Total time spent: 30 minutes**
+
+## Final documentation edits.
+
+Updated BOM, gerber/drill files, added renders to readme, and generally polished everything up. Included photo of me typing this lol.
+
+<img width="1082" height="553" alt="Screenshot 2026-09-22 at 7 27 41 PM" src="https://github.com/user-attachments/assets/ee06c308-b169-4493-9e24-1bb25664f500" />
+
+**Total time spent: 30 minutes**
+
+
