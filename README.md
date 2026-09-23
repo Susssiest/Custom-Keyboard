@@ -1,6 +1,9 @@
 # Project Writeup
 
-<img width="1003" height="580" alt="Screenshot 2026-09-22 at 11 12 53 AM" src="https://github.com/user-attachments/assets/8a682814-ff20-414b-83a9-77e84af928c8" />
+<img width="681" height="450" alt="PCB Render" src="https://github.com/user-attachments/assets/a713a828-6596-4cd6-8530-6cb27183c88a" /> 
+<img width="737" height="450" alt="Render" src="https://github.com/user-attachments/assets/e82c888c-1b3f-405c-9f08-0759391a8ab1" />
+
+
 
 ## Summary
 
@@ -53,7 +56,7 @@ The oled will show a live display of what keys are being pressed, but I may also
 
 # Cad Assembly
 
-
+https://github.com/user-attachments/assets/58d7ddcc-f08c-4a4f-aa4c-c66ab165dcce
 
 ## BOM
 
