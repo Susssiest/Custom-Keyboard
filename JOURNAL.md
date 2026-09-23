@@ -124,7 +124,7 @@ Found footprint and placed mounting holes in the four corners of the pcb. Needed
 
 Added a new screw hole mount to the actual cad for the pcb, and added a extrusion in the case that holds the plate up. Also used blender animation tools to make a fire assembly animation.
 
-https://github.com/user-attachments/assets/f9cdefcc-f757-4dad-8c3b-0cd6c020ba80
+<img width="498" height="344" alt="Screenshot 2026-09-22 at 6 13 17 PM" src="https://github.com/user-attachments/assets/aa766929-e714-45d2-8061-e68470681784" />
 
 **Total time spent: 1 hour**
 
