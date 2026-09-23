@@ -136,6 +136,13 @@ Changed spacebar footprint and updated routing along it. Also updated BOM.
 
 **Total time spent: 30 minutes**
 
+## Fixed silkscreen for hotswaps.
+Silkscreen was completely on f.cu, moved hotswap parts to back side. Looking good, I'm pretty confident that I am done.
+
+<img width="371" height="312" alt="Screenshot 2026-09-23 at 10 27 00 AM" src="https://github.com/user-attachments/assets/8c1947c3-432b-4078-8710-b21004b03b17" />
+
+**Total time spent: 30 minutes**
+
 ## Final documentation edits.
 
 Updated BOM, gerber/drill files, added renders to readme, updated journal, and generally polished everything up.
