@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/58d7ddcc-f08c-4a4f-aa4c-c66ab165dcce
 
 ## BOM
 
-## Keyboard BOM
+## Keyboard Parts BOM
 
 | Item | Part Number | Description | Quantity | Notes | Price | Total |
 | ---: | --- | --- | ---: | --- | ---: | ---: |
@@ -79,4 +79,12 @@ https://github.com/user-attachments/assets/58d7ddcc-f08c-4a4f-aa4c-c66ab165dcce
 | 14 | Level Shifter | SN74AHCT125N | 1 | Have already. | N/A | — |
 | 15 | N/A | Metal Film Capacitor | 1 (1000 µF) | — | N/A | — |
 
-**Listed Total:** $64.19
+**Listed Total:** $64.
+
+## Fabrication Stats
+
+<img width="1468" height="798" alt="Screenshot 2026-09-23 at 11 10 17 AM" src="https://github.com/user-attachments/assets/6f85c6f0-7860-40f1-99a8-c0a01f785e5e" />
+
+- **Total Price: $26.50**
+- **Shipping Estimate: $20**
+
