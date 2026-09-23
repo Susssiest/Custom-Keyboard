@@ -86,5 +86,5 @@ https://github.com/user-attachments/assets/58d7ddcc-f08c-4a4f-aa4c-c66ab165dcce
 <img width="1470" height="801" alt="Screenshot 2026-09-23 at 11 26 51 AM" src="https://github.com/user-attachments/assets/48cb46e0-bf90-405d-a4ea-4df041df8426" />
 
 - **Total Price: $26.50**
-- **Shipping Estimate: $18.90**
+- **Shipping Estimate: $18.20**
 
