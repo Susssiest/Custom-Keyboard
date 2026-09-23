@@ -1,6 +1,7 @@
 # Project Writeup
 
-<img width="963" height="588" alt="Screenshot 2026-09-22 at 5 37 15 PM" src="https://github.com/user-attachments/assets/1fabf43f-61b2-4c94-9da9-c1c4774b4ee3" /> <img width="1052" height="596" alt="Screenshot 2026-09-22 at 5 49 08 PM" src="https://github.com/user-attachments/assets/465b7274-f757-40f6-a389-fff3ea8748d2" />
+<img width="482" height="294" alt="Screenshot 2026-09-22 at 5 37 15 PM" src="https://github.com/user-attachments/assets/1fabf43f-61b2-4c94-9da9-c1c4774b4ee3" /> <img width="526" height="298" alt="Screenshot 2026-09-22 at 5 49 08 PM" src="https://github.com/user-attachments/assets/465b7274-f757-40f6-a389-fff3ea8748d2" />
+
 
 
 ## Summary
