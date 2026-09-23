@@ -119,3 +119,19 @@ Found footprint and placed mounting holes in the four corners of the pcb. Needed
 <img width="437" height="408" alt="Screenshot 2026-09-22 at 11 10 30 AM" src="https://github.com/user-attachments/assets/8b14bca0-b923-4020-b80c-80654a2d5899" />
 
 **Total time spent: 20 minutes**
+
+## Updated PCB mounting and plate mounting system, and made a assembly animation.
+
+Added a new screw hole mount to the actual cad for the pcb, and added a extrusion in the case that holds the plate up. Also used blender animation tools to make a fire assembly animation.
+
+<img width="498" height="344" alt="Screenshot 2026-09-22 at 6 13 17 PM" src="https://github.com/user-attachments/assets/aa766929-e714-45d2-8061-e68470681784" />
+
+**Total time spent: 1 hour**
+
+## Changed spacebar key to 6u because i cant find any sets with 7u lol.
+
+Changed spacebar footprint and updated routing along it. Also updated BOM.
+
+<img width="739" height="460" alt="Screenshot 2026-09-22 at 7 05 12 PM" src="https://github.com/user-attachments/assets/bcd8c5b6-282b-4282-9a75-41cdffc72812" />
+
+**Total time spent: 30 minutes**
