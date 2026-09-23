@@ -128,3 +128,10 @@ Added a new screw hole mount to the actual cad for the pcb, and added a extrusio
 
 **Total time spent: 1 hour**
 
+## Changed spacebar key to 6u because i cant find any sets with 7u lol.
+
+Changed spacebar footprint and updated routing along it. Also updated BOM.
+
+<img width="739" height="460" alt="Screenshot 2026-09-22 at 7 05 12 PM" src="https://github.com/user-attachments/assets/bcd8c5b6-282b-4282-9a75-41cdffc72812" />
+
+**Total time spent: 30 minutes**
