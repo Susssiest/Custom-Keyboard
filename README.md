@@ -1,3 +1,4 @@
+<img width="1470" height="801" alt="Screenshot 2026-09-23 at 11 26 51 AM" src="https://github.com/user-attachments/assets/512a9bf9-f13c-46d4-abe1-0424b4732ad6" />
 # Project Writeup
 <img width="978" height="616" alt="Screenshot 2026-09-23 at 10 50 05 AM" src="https://github.com/user-attachments/assets/6a91bdc4-55dd-4a46-ac8e-0b28b133955f" />
 <img width="737" height="450" alt="Render" src="https://github.com/user-attachments/assets/e82c888c-1b3f-405c-9f08-0759391a8ab1" />
@@ -83,8 +84,8 @@ https://github.com/user-attachments/assets/58d7ddcc-f08c-4a4f-aa4c-c66ab165dcce
 
 ## Fabrication Stats
 
-<img width="1468" height="798" alt="Screenshot 2026-09-23 at 11 10 17 AM" src="https://github.com/user-attachments/assets/6f85c6f0-7860-40f1-99a8-c0a01f785e5e" />
+<img width="1470" height="801" alt="Screenshot 2026-09-23 at 11 26 51 AM" src="https://github.com/user-attachments/assets/48cb46e0-bf90-405d-a4ea-4df041df8426" />
 
 - **Total Price: $26.50**
-- **Shipping Estimate: $20**
+- **Shipping Estimate: $18.90**
 
