@@ -1,8 +1,8 @@
 # Project Writeup
 
-<img width="714" height="472" alt="PCB Render" src="https://github.com/user-attachments/assets/a713a828-6596-4cd6-8530-6cb27183c88a" />
+<img width="681" height="450" alt="PCB Render" src="https://github.com/user-attachments/assets/a713a828-6596-4cd6-8530-6cb27183c88a" /> 
+<img width="737" height="450" alt="Render" src="https://github.com/user-attachments/assets/e82c888c-1b3f-405c-9f08-0759391a8ab1" />
 
-<img width="963" height="588" alt="Render" src="https://github.com/user-attachments/assets/e82c888c-1b3f-405c-9f08-0759391a8ab1" />
 
 
 ## Summary
