@@ -143,6 +143,12 @@ Silkscreen was completely on f.cu, moved hotswap parts to back side. Looking goo
 
 **Total time spent: 30 minutes**
 
+## Added USB C Hole.
+
+Made a usbc cutout and applied boolean, and then uploaded to stl folder and converted to step.
+
+<img width="368" height="336" alt="Screenshot 2026-09-24 at 11 37 58 AM" src="https://github.com/user-attachments/assets/6c81843f-922e-421c-963f-59ae5b892a5d" />
+
 ## Final documentation edits.
 
 Updated BOM, gerber/drill files, added renders to readme, updated journal, and generally polished everything up.
