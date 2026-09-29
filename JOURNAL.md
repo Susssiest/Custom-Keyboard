@@ -157,4 +157,10 @@ Updated BOM, gerber/drill files, added renders to readme, updated journal, and g
 
 **Total time spent: 30 minutes**
 
+## Sorting all the random fucking pcb components into collections and then redoing assemby.
+
+The keybaord was basically returned because my assembly sucks. So I fixed it. But, it was lazy for a specific reason. If I export the cad as a glb, it puts everything in a node, and it scales it to a thousandth of the size. The nodes for some reason are randomly linked to other objects for some reason, so say I move a switch on the right of the keyboard, it will also move a diode on the complete opposite side in the same way. I spent 30 literal minutes being confused and moving stuff around. Then I gave up and deleted everything, and re addded the pcb files. I un-noded everything, but then I realized that it multiplied the amount of objects by like 5. For some stupid fucking reason, each led took up 5 different objects that are in completely differant areas on the parts list, one object for the main led, and then 4 more for each singlar fucking pin extruding it. The keys also took up two objects each, one for casing, one for + thing on top, and the hotswaps took up 3 objects, one for main hotswap part, two for pins extruding from it. So I had to painstakingly sort over 600 objects into 12 differant folders. This took me around 2 hours, 40 minutes. I then chose to skip renaming every part, because for some reason random components had names like this. **=>[0:1:1:30].057** I dont knwo why the fuck they had names like that, ask motherfucking kicad.  I also had to redo the colors on some imported parts because a few specific part had just see through materials for some stupid fucking reason, so I just went around copying and pasting hex codes for 30 minutes. I finally finished sorting everything, and animated it. The animation is pretty simple, it took 30 minutes to make. I was so tired that instead of setting up a camera and lighting, I just took a screen recording in material preview mode. 
+
+**Total time spent: 3 hours, 40 minutes**
+
 
