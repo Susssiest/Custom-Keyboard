@@ -1,7 +1,7 @@
 # Project Writeup
 
 <img width="978" height="616" alt="Screenshot 2026-09-23 at 10 50 05 AM" src="https://github.com/user-attachments/assets/6a91bdc4-55dd-4a46-ac8e-0b28b133955f" />
-<img width="954" height="528" alt="Full Render" src="https://github.com/user-attachments/assets/9e819b3c-253d-4530-a4d2-1668d856f19b" />
+<img width="978" height="616" alt="Full Render" src="https://github.com/user-attachments/assets/9e819b3c-253d-4530-a4d2-1668d856f19b" />
 
 
 ## Summary
