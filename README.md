@@ -55,7 +55,7 @@ The oled will show a live display of what keys are being pressed, but I may also
 
 # Cad Assembly
 
-https://github.com/user-attachments/assets/58d7ddcc-f08c-4a4f-aa4c-c66ab165dcce
+https://github.com/user-attachments/assets/99ca1ac0-4308-4080-8bde-6a10d6c55312
 
 # Prices
 
