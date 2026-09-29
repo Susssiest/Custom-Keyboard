@@ -1,6 +1,7 @@
 # Project Writeup
+
 <img width="978" height="616" alt="Screenshot 2026-09-23 at 10 50 05 AM" src="https://github.com/user-attachments/assets/6a91bdc4-55dd-4a46-ac8e-0b28b133955f" />
-<img width="737" height="450" alt="Render" src="https://github.com/user-attachments/assets/e82c888c-1b3f-405c-9f08-0759391a8ab1" />
+<img width="978" height="616" alt="Full Render" src="https://github.com/user-attachments/assets/98dd40e9-c1e7-4e45-8eca-14b3787b698e" />
 
 
 
@@ -88,3 +89,4 @@ https://github.com/user-attachments/assets/99ca1ac0-4308-4080-8bde-6a10d6c55312
 - **Total Price: $26.50**
 - **Shipping Estimate: $18.20**
 
+## Download blender files here -> https://drive.google.com/file/d/1HHVWuKGK5Ybn4Eovk-v0dPoQDrp0pe_T/view?usp=sharing
