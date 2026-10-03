@@ -18,6 +18,6 @@ I changed my mind about buying from aliexpress and switched to using lcsc. Updat
 
 I kind of realized my name is pretty lame. So I changed it to FORGE CORE, or, as spelled out on the keyboard, F0RG3 C0RE. I like it much better. Took me maybe forty minutes to redo text in blender, take new render images, update repos, and update forge project names.
 
-![Uploading Screenshot 2026-10-03 at 12.23.32 PM.png…]()
+<img width="832" height="425" alt="Screenshot 2026-10-03 at 12 24 06 PM" src="https://github.com/user-attachments/assets/7b8ef757-204b-4ee5-959c-4b3b9bfcf475" />
 
 **Total time spent: 40 minutes**
