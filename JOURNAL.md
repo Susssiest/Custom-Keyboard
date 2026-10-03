@@ -10,5 +10,7 @@ I named the keyboard! It's going to be called armature, I don't know exactly why
 
 I changed my mind about buying from aliexpress and switched to using lcsc. Updated BOM to include new links and prices. I double checked everything, for example I went into kicad and ran drc again and then re exported even though I hadn't made any changes. After checking everything I finally bought from JLCPCB and LCSC. I will need to buy the keys and stabilizers on amazon.
 
+<img width="1123" height="195" alt="Screenshot 2026-10-03 at 9 00 17 AM" src="https://github.com/user-attachments/assets/59d10db3-48b8-4b7a-adca-47fae376a0f6" />
+
 **Total time spent: 1 hour, 20 minutes**
 
