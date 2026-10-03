@@ -1,4 +1,4 @@
-# ARMATURE
+# FORGE CORE
 
 <img width="978" height="616" alt="Screenshot 2026-09-23 at 10 50 05 AM" src="https://github.com/user-attachments/assets/6a91bdc4-55dd-4a46-ac8e-0b28b133955f" />
 <img width="978" height="616" alt="Full Render" src="https://github.com/user-attachments/assets/98dd40e9-c1e7-4e45-8eca-14b3787b698e" />
