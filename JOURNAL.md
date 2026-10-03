@@ -1,5 +1,3 @@
-# RAVELIN BUILD JOURNAL
-
 ## Final touches before buying.
 
 I named the keyboard! It's going to be called armature, I don't know exactly why I chose it, but I think it's cool. Added the text onto the case, and also added keycap renders and took final renders. 
