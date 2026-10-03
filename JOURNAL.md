@@ -21,3 +21,14 @@ I kind of realized my name is pretty lame. So I changed it to FORGE CORE, or, as
 <img width="832" height="425" alt="Screenshot 2026-10-03 at 12 24 06 PM" src="https://github.com/user-attachments/assets/7b8ef757-204b-4ee5-959c-4b3b9bfcf475" />
 
 **Total time spent: 40 minutes**
+
+## I'm super bored, so I decided to redo the animation.
+
+Using the old sorting of all the pcb components, I completely redid the animation and added a really satisfying placement of keys falling down onto the board, as well as adding a rotary encoder knob render, and updating keycaps into the animation.
+
+<img width="1470" height="923" alt="Screenshot 2026-10-03 at 1 26 00 PM" src="https://github.com/user-attachments/assets/f5011375-a862-454a-b323-21637f724cba" />
+
+**Total time spent: 1 hour 40 minutes**
+
+
+
